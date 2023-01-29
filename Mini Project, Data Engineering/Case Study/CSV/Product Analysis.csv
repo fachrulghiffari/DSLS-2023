@@ -1,0 +1,1772 @@
+Year,Month,CategoryName,ProductName,Sales
+1996,July,Beverages,Chai,.00
+1996,July,Beverages,Chang,1444.00
+1996,July,Beverages,Chartreuse verte,691.20
+1996,July,Beverages,Côte de Blaye,.00
+1996,July,Beverages,Guaraná Fantástica,146.70
+1996,July,Beverages,Ipoh Coffee,.00
+1996,July,Beverages,Lakkalikööri,183.60
+1996,July,Beverages,Laughing Lumberjack Lager,.00
+1996,July,Beverages,Outback Lager,429.00
+1996,July,Beverages,Rhönbräu Klosterbier,.00
+1996,July,Beverages,Sasquatch Ale,.00
+1996,July,Beverages,Steeleye Stout,288.00
+1996,July,Condiments,Aniseed Syrup,.00
+1996,July,Condiments,Chef Anton's Cajun Seasoning,.00
+1996,July,Condiments,Chef Anton's Gumbo Mix,1047.20
+1996,July,Condiments,Genen Shouyu,.00
+1996,July,Condiments,Grandma's Boysenberry Spread,.00
+1996,July,Condiments,Gula Malacca,.00
+1996,July,Condiments,Louisiana Fiery Hot Pepper Sauce,550.20
+1996,July,Condiments,Louisiana Hot Spiced Okra,.00
+1996,July,Condiments,Northwoods Cranberry Sauce,.00
+1996,July,Condiments,Original Frankfurter grüne Soße,280.80
+1996,July,Condiments,Sirop d'érable,.00
+1996,July,Condiments,Vegie-spread,.00
+1996,July,Confections,Chocolade,.00
+1996,July,Confections,Gumbär Gummibärchen,.00
+1996,July,Confections,Maxilaku,640.00
+1996,July,Confections,NuNuCa Nuß-Nougat-Creme,.00
+1996,July,Confections,Pavlova,1112.00
+1996,July,Confections,Schoggi Schokolade,877.50
+1996,July,Confections,Scottish Longbreads,.00
+1996,July,Confections,Sir Rodney's Marmalade,2462.40
+1996,July,Confections,Sir Rodney's Scones,240.00
+1996,July,Confections,Tarte au sucre,443.25
+1996,July,Confections,Teatime Chocolate Biscuits,.00
+1996,July,Confections,Valkoinen suklaa,.00
+1996,July,Confections,Zaanse koeken,.00
+1996,July,Dairy Products,Camembert Pierrot,1088.00
+1996,July,Dairy Products,Flotemysost,.00
+1996,July,Dairy Products,Geitost,161.50
+1996,July,Dairy Products,Gorgonzola Telino,200.00
+1996,July,Dairy Products,Gudbrandsdalsost,.00
+1996,July,Dairy Products,Mascarpone Fabioli,122.88
+1996,July,Dairy Products,Mozzarella di Giovanni,813.40
+1996,July,Dairy Products,Queso Cabrales,168.00
+1996,July,Dairy Products,Queso Manchego La Pastora,346.56
+1996,July,Dairy Products,Raclette Courdavault,3938.00
+1996,July,Grains/Cereals,Filo Mix,.00
+1996,July,Grains/Cereals,Gnocchi di nonna Alice,60.80
+1996,July,Grains/Cereals,Gustaf's Knäckebröd,95.76
+1996,July,Grains/Cereals,Ravioli Angelo,1002.30
+1996,July,Grains/Cereals,Singaporean Hokkien Fried Mee,98.00
+1996,July,Grains/Cereals,Tunnbröd,.00
+1996,July,Grains/Cereals,Wimmers gute Semmelknödel,.00
+1996,July,Meat/Poultry,Alice Mutton,936.00
+1996,July,Meat/Poultry,Mishi Kobe Niku,.00
+1996,July,Meat/Poultry,Pâté chinois,342.72
+1996,July,Meat/Poultry,Perth Pasties,393.00
+1996,July,Meat/Poultry,Thüringer Rostbratwurst,990.00
+1996,July,Meat/Poultry,Tourtière,.00
+1996,July,Produce,Longlife Tofu,384.00
+1996,July,Produce,Manjimup Dried Apples,2957.40
+1996,July,Produce,Rössle Sauerkraut,.00
+1996,July,Produce,Tofu,167.40
+1996,July,Produce,Uncle Bob's Organic Dried Pears,360.00
+1996,July,Seafood,Boston Crab Meat,735.00
+1996,July,Seafood,Carnarvon Tigers,.00
+1996,July,Seafood,Escargots de Bourgogne,.00
+1996,July,Seafood,Gravad lax,20.80
+1996,July,Seafood,Ikura,.00
+1996,July,Seafood,Inlagd Sill,380.00
+1996,July,Seafood,Jack's New England Clam Chowder,333.02
+1996,July,Seafood,Konbu,.00
+1996,July,Seafood,Nord-Ost Matjeshering,931.50
+1996,July,Seafood,Röd Kaviar,.00
+1996,July,Seafood,Rogede sild,.00
+1996,July,Seafood,Spegesild,.00
+1996,August,Beverages,Chai,777.60
+1996,August,Beverages,Chang,.00
+1996,August,Beverages,Chartreuse verte,.00
+1996,August,Beverages,Côte de Blaye,.00
+1996,August,Beverages,Guaraná Fantástica,141.84
+1996,August,Beverages,Ipoh Coffee,1472.00
+1996,August,Beverages,Lakkalikööri,451.44
+1996,August,Beverages,Laughing Lumberjack Lager,42.00
+1996,August,Beverages,Outback Lager,.00
+1996,August,Beverages,Rhönbräu Klosterbier,260.40
+1996,August,Beverages,Sasquatch Ale,224.00
+1996,August,Beverages,Steeleye Stout,1497.60
+1996,August,Condiments,Aniseed Syrup,240.00
+1996,August,Condiments,Chef Anton's Cajun Seasoning,.00
+1996,August,Condiments,Chef Anton's Gumbo Mix,340.00
+1996,August,Condiments,Genen Shouyu,248.00
+1996,August,Condiments,Grandma's Boysenberry Spread,.00
+1996,August,Condiments,Gula Malacca,908.30
+1996,August,Condiments,Louisiana Fiery Hot Pepper Sauce,.00
+1996,August,Condiments,Louisiana Hot Spiced Okra,.00
+1996,August,Condiments,Northwoods Cranberry Sauce,.00
+1996,August,Condiments,Original Frankfurter grüne Soße,104.00
+1996,August,Condiments,Sirop d'érable,.00
+1996,August,Condiments,Vegie-spread,456.30
+1996,August,Confections,Chocolade,.00
+1996,August,Confections,Gumbär Gummibärchen,.00
+1996,August,Confections,Maxilaku,240.00
+1996,August,Confections,NuNuCa Nuß-Nougat-Creme,.00
+1996,August,Confections,Pavlova,472.60
+1996,August,Confections,Schoggi Schokolade,394.88
+1996,August,Confections,Scottish Longbreads,27.00
+1996,August,Confections,Sir Rodney's Marmalade,1684.80
+1996,August,Confections,Sir Rodney's Scones,.00
+1996,August,Confections,Tarte au sucre,2048.80
+1996,August,Confections,Teatime Chocolate Biscuits,138.70
+1996,August,Confections,Valkoinen suklaa,.00
+1996,August,Confections,Zaanse koeken,.00
+1996,August,Dairy Products,Camembert Pierrot,1931.20
+1996,August,Dairy Products,Flotemysost,344.00
+1996,August,Dairy Products,Geitost,88.00
+1996,August,Dairy Products,Gorgonzola Telino,542.50
+1996,August,Dairy Products,Gudbrandsdalsost,.00
+1996,August,Dairy Products,Mascarpone Fabioli,.00
+1996,August,Dairy Products,Mozzarella di Giovanni,945.20
+1996,August,Dairy Products,Queso Cabrales,.00
+1996,August,Dairy Products,Queso Manchego La Pastora,.00
+1996,August,Dairy Products,Raclette Courdavault,910.80
+1996,August,Grains/Cereals,Filo Mix,.00
+1996,August,Grains/Cereals,Gnocchi di nonna Alice,.00
+1996,August,Grains/Cereals,Gustaf's Knäckebröd,.00
+1996,August,Grains/Cereals,Ravioli Angelo,31.20
+1996,August,Grains/Cereals,Singaporean Hokkien Fried Mee,.00
+1996,August,Grains/Cereals,Tunnbröd,.00
+1996,August,Grains/Cereals,Wimmers gute Semmelknödel,239.40
+1996,August,Meat/Poultry,Alice Mutton,819.00
+1996,August,Meat/Poultry,Mishi Kobe Niku,.00
+1996,August,Meat/Poultry,Pâté chinois,384.00
+1996,August,Meat/Poultry,Perth Pasties,754.56
+1996,August,Meat/Poultry,Thüringer Rostbratwurst,1485.00
+1996,August,Meat/Poultry,Tourtière,53.10
+1996,August,Produce,Longlife Tofu,.00
+1996,August,Produce,Manjimup Dried Apples,76.32
+1996,August,Produce,Rössle Sauerkraut,728.00
+1996,August,Produce,Tofu,.00
+1996,August,Produce,Uncle Bob's Organic Dried Pears,.00
+1996,August,Seafood,Boston Crab Meat,1308.30
+1996,August,Seafood,Carnarvon Tigers,600.00
+1996,August,Seafood,Escargots de Bourgogne,.00
+1996,August,Seafood,Gravad lax,.00
+1996,August,Seafood,Ikura,937.44
+1996,August,Seafood,Inlagd Sill,456.00
+1996,August,Seafood,Jack's New England Clam Chowder,.00
+1996,August,Seafood,Konbu,134.40
+1996,August,Seafood,Nord-Ost Matjeshering,124.20
+1996,August,Seafood,Röd Kaviar,300.00
+1996,August,Seafood,Rogede sild,.00
+1996,August,Seafood,Spegesild,122.40
+1996,September,Beverages,Chai,288.00
+1996,September,Beverages,Chang,608.00
+1996,September,Beverages,Chartreuse verte,1252.80
+1996,September,Beverages,Côte de Blaye,.00
+1996,September,Beverages,Guaraná Fantástica,.00
+1996,September,Beverages,Ipoh Coffee,2060.80
+1996,September,Beverages,Lakkalikööri,.00
+1996,September,Beverages,Laughing Lumberjack Lager,.00
+1996,September,Beverages,Outback Lager,660.00
+1996,September,Beverages,Rhönbräu Klosterbier,62.00
+1996,September,Beverages,Sasquatch Ale,156.80
+1996,September,Beverages,Steeleye Stout,.00
+1996,September,Condiments,Aniseed Syrup,.00
+1996,September,Condiments,Chef Anton's Cajun Seasoning,352.00
+1996,September,Condiments,Chef Anton's Gumbo Mix,.00
+1996,September,Condiments,Genen Shouyu,.00
+1996,September,Condiments,Grandma's Boysenberry Spread,600.00
+1996,September,Condiments,Gula Malacca,.00
+1996,September,Condiments,Louisiana Fiery Hot Pepper Sauce,453.60
+1996,September,Condiments,Louisiana Hot Spiced Okra,408.00
+1996,September,Condiments,Northwoods Cranberry Sauce,.00
+1996,September,Condiments,Original Frankfurter grüne Soße,.00
+1996,September,Condiments,Sirop d'érable,.00
+1996,September,Condiments,Vegie-spread,.00
+1996,September,Confections,Chocolade,.00
+1996,September,Confections,Gumbär Gummibärchen,.00
+1996,September,Confections,Maxilaku,480.00
+1996,September,Confections,NuNuCa Nuß-Nougat-Creme,.00
+1996,September,Confections,Pavlova,556.00
+1996,September,Confections,Schoggi Schokolade,.00
+1996,September,Confections,Scottish Longbreads,365.00
+1996,September,Confections,Sir Rodney's Marmalade,.00
+1996,September,Confections,Sir Rodney's Scones,.00
+1996,September,Confections,Tarte au sucre,4826.50
+1996,September,Confections,Teatime Chocolate Biscuits,109.50
+1996,September,Confections,Valkoinen suklaa,.00
+1996,September,Confections,Zaanse koeken,.00
+1996,September,Dairy Products,Camembert Pierrot,.00
+1996,September,Dairy Products,Flotemysost,86.00
+1996,September,Dairy Products,Geitost,.00
+1996,September,Dairy Products,Gorgonzola Telino,.00
+1996,September,Dairy Products,Gudbrandsdalsost,662.40
+1996,September,Dairy Products,Mascarpone Fabioli,921.60
+1996,September,Dairy Products,Mozzarella di Giovanni,556.00
+1996,September,Dairy Products,Queso Cabrales,201.60
+1996,September,Dairy Products,Queso Manchego La Pastora,.00
+1996,September,Dairy Products,Raclette Courdavault,1430.00
+1996,September,Grains/Cereals,Filo Mix,.00
+1996,September,Grains/Cereals,Gnocchi di nonna Alice,729.60
+1996,September,Grains/Cereals,Gustaf's Knäckebröd,.00
+1996,September,Grains/Cereals,Ravioli Angelo,.00
+1996,September,Grains/Cereals,Singaporean Hokkien Fried Mee,89.60
+1996,September,Grains/Cereals,Tunnbröd,.00
+1996,September,Grains/Cereals,Wimmers gute Semmelknödel,.00
+1996,September,Meat/Poultry,Alice Mutton,1248.00
+1996,September,Meat/Poultry,Mishi Kobe Niku,.00
+1996,September,Meat/Poultry,Pâté chinois,.00
+1996,September,Meat/Poultry,Perth Pasties,786.00
+1996,September,Meat/Poultry,Thüringer Rostbratwurst,2227.50
+1996,September,Meat/Poultry,Tourtière,29.50
+1996,September,Produce,Longlife Tofu,.00
+1996,September,Produce,Manjimup Dried Apples,.00
+1996,September,Produce,Rössle Sauerkraut,1164.80
+1996,September,Produce,Tofu,.00
+1996,September,Produce,Uncle Bob's Organic Dried Pears,.00
+1996,September,Seafood,Boston Crab Meat,676.20
+1996,September,Seafood,Carnarvon Tigers,1125.00
+1996,September,Seafood,Escargots de Bourgogne,286.20
+1996,September,Seafood,Gravad lax,.00
+1996,September,Seafood,Ikura,.00
+1996,September,Seafood,Inlagd Sill,638.40
+1996,September,Seafood,Jack's New England Clam Chowder,77.00
+1996,September,Seafood,Konbu,.00
+1996,September,Seafood,Nord-Ost Matjeshering,207.00
+1996,September,Seafood,Röd Kaviar,.00
+1996,September,Seafood,Rogede sild,.00
+1996,September,Seafood,Spegesild,.00
+1996,October,Beverages,Chai,.00
+1996,October,Beverages,Chang,680.96
+1996,October,Beverages,Chartreuse verte,57.60
+1996,October,Beverages,Côte de Blaye,4005.20
+1996,October,Beverages,Guaraná Fantástica,.00
+1996,October,Beverages,Ipoh Coffee,1398.40
+1996,October,Beverages,Lakkalikööri,734.40
+1996,October,Beverages,Laughing Lumberjack Lager,.00
+1996,October,Beverages,Outback Lager,.00
+1996,October,Beverages,Rhönbräu Klosterbier,310.00
+1996,October,Beverages,Sasquatch Ale,.00
+1996,October,Beverages,Steeleye Stout,1000.80
+1996,October,Condiments,Aniseed Syrup,.00
+1996,October,Condiments,Chef Anton's Cajun Seasoning,883.52
+1996,October,Condiments,Chef Anton's Gumbo Mix,.00
+1996,October,Condiments,Genen Shouyu,62.00
+1996,October,Condiments,Grandma's Boysenberry Spread,120.00
+1996,October,Condiments,Gula Malacca,.00
+1996,October,Condiments,Louisiana Fiery Hot Pepper Sauce,672.00
+1996,October,Condiments,Louisiana Hot Spiced Okra,.00
+1996,October,Condiments,Northwoods Cranberry Sauce,.00
+1996,October,Condiments,Original Frankfurter grüne Soße,.00
+1996,October,Condiments,Sirop d'érable,.00
+1996,October,Condiments,Vegie-spread,2386.80
+1996,October,Confections,Chocolade,.00
+1996,October,Confections,Gumbär Gummibärchen,1655.85
+1996,October,Confections,Maxilaku,.00
+1996,October,Confections,NuNuCa Nuß-Nougat-Creme,44.80
+1996,October,Confections,Pavlova,248.12
+1996,October,Confections,Schoggi Schokolade,.00
+1996,October,Confections,Scottish Longbreads,238.00
+1996,October,Confections,Sir Rodney's Marmalade,.00
+1996,October,Confections,Sir Rodney's Scones,72.00
+1996,October,Confections,Tarte au sucre,1103.20
+1996,October,Confections,Teatime Chocolate Biscuits,69.35
+1996,October,Confections,Valkoinen suklaa,.00
+1996,October,Confections,Zaanse koeken,97.28
+1996,October,Dairy Products,Camembert Pierrot,.00
+1996,October,Dairy Products,Flotemysost,1135.20
+1996,October,Dairy Products,Geitost,16.00
+1996,October,Dairy Products,Gorgonzola Telino,688.00
+1996,October,Dairy Products,Gudbrandsdalsost,.00
+1996,October,Dairy Products,Mascarpone Fabioli,122.88
+1996,October,Dairy Products,Mozzarella di Giovanni,2397.75
+1996,October,Dairy Products,Queso Cabrales,672.00
+1996,October,Dairy Products,Queso Manchego La Pastora,.00
+1996,October,Dairy Products,Raclette Courdavault,2228.60
+1996,October,Grains/Cereals,Filo Mix,156.80
+1996,October,Grains/Cereals,Gnocchi di nonna Alice,346.56
+1996,October,Grains/Cereals,Gustaf's Knäckebröd,.00
+1996,October,Grains/Cereals,Ravioli Angelo,249.60
+1996,October,Grains/Cereals,Singaporean Hokkien Fried Mee,89.60
+1996,October,Grains/Cereals,Tunnbröd,288.00
+1996,October,Grains/Cereals,Wimmers gute Semmelknödel,1330.00
+1996,October,Meat/Poultry,Alice Mutton,2948.40
+1996,October,Meat/Poultry,Mishi Kobe Niku,.00
+1996,October,Meat/Poultry,Pâté chinois,614.40
+1996,October,Meat/Poultry,Perth Pasties,.00
+1996,October,Meat/Poultry,Thüringer Rostbratwurst,.00
+1996,October,Meat/Poultry,Tourtière,88.50
+1996,October,Produce,Longlife Tofu,.00
+1996,October,Produce,Manjimup Dried Apples,1628.16
+1996,October,Produce,Rössle Sauerkraut,509.60
+1996,October,Produce,Tofu,353.40
+1996,October,Produce,Uncle Bob's Organic Dried Pears,.00
+1996,October,Seafood,Boston Crab Meat,.00
+1996,October,Seafood,Carnarvon Tigers,2550.00
+1996,October,Seafood,Escargots de Bourgogne,254.40
+1996,October,Seafood,Gravad lax,582.40
+1996,October,Seafood,Ikura,.00
+1996,October,Seafood,Inlagd Sill,790.40
+1996,October,Seafood,Jack's New England Clam Chowder,241.78
+1996,October,Seafood,Konbu,57.60
+1996,October,Seafood,Nord-Ost Matjeshering,1047.42
+1996,October,Seafood,Röd Kaviar,.00
+1996,October,Seafood,Rogede sild,.00
+1996,October,Seafood,Spegesild,288.00
+1996,November,Beverages,Chai,356.40
+1996,November,Beverages,Chang,.00
+1996,November,Beverages,Chartreuse verte,1311.84
+1996,November,Beverages,Côte de Blaye,14545.20
+1996,November,Beverages,Guaraná Fantástica,160.20
+1996,November,Beverages,Ipoh Coffee,.00
+1996,November,Beverages,Lakkalikööri,172.80
+1996,November,Beverages,Laughing Lumberjack Lager,.00
+1996,November,Beverages,Outback Lager,.00
+1996,November,Beverages,Rhönbräu Klosterbier,106.02
+1996,November,Beverages,Sasquatch Ale,509.60
+1996,November,Beverages,Steeleye Stout,.00
+1996,November,Condiments,Aniseed Syrup,.00
+1996,November,Condiments,Chef Anton's Cajun Seasoning,616.00
+1996,November,Condiments,Chef Anton's Gumbo Mix,.00
+1996,November,Condiments,Genen Shouyu,.00
+1996,November,Condiments,Grandma's Boysenberry Spread,.00
+1996,November,Condiments,Gula Malacca,1133.82
+1996,November,Condiments,Louisiana Fiery Hot Pepper Sauce,495.60
+1996,November,Condiments,Louisiana Hot Spiced Okra,.00
+1996,November,Condiments,Northwoods Cranberry Sauce,3920.00
+1996,November,Condiments,Original Frankfurter grüne Soße,124.80
+1996,November,Condiments,Sirop d'érable,.00
+1996,November,Condiments,Vegie-spread,.00
+1996,November,Confections,Chocolade,.00
+1996,November,Confections,Gumbär Gummibärchen,398.40
+1996,November,Confections,Maxilaku,560.00
+1996,November,Confections,NuNuCa Nuß-Nougat-Creme,672.00
+1996,November,Confections,Pavlova,739.48
+1996,November,Confections,Schoggi Schokolade,.00
+1996,November,Confections,Scottish Longbreads,.00
+1996,November,Confections,Sir Rodney's Marmalade,.00
+1996,November,Confections,Sir Rodney's Scones,36.00
+1996,November,Confections,Tarte au sucre,.00
+1996,November,Confections,Teatime Chocolate Biscuits,584.00
+1996,November,Confections,Valkoinen suklaa,175.50
+1996,November,Confections,Zaanse koeken,.00
+1996,November,Dairy Products,Camembert Pierrot,3587.68
+1996,November,Dairy Products,Flotemysost,86.00
+1996,November,Dairy Products,Geitost,.00
+1996,November,Dairy Products,Gorgonzola Telino,1165.00
+1996,November,Dairy Products,Gudbrandsdalsost,1906.56
+1996,November,Dairy Products,Mascarpone Fabioli,.00
+1996,November,Dairy Products,Mozzarella di Giovanni,.00
+1996,November,Dairy Products,Queso Cabrales,564.48
+1996,November,Dairy Products,Queso Manchego La Pastora,.00
+1996,November,Dairy Products,Raclette Courdavault,.00
+1996,November,Grains/Cereals,Filo Mix,.00
+1996,November,Grains/Cereals,Gnocchi di nonna Alice,608.00
+1996,November,Grains/Cereals,Gustaf's Knäckebröd,.00
+1996,November,Grains/Cereals,Ravioli Angelo,780.00
+1996,November,Grains/Cereals,Singaporean Hokkien Fried Mee,100.80
+1996,November,Grains/Cereals,Tunnbröd,180.00
+1996,November,Grains/Cereals,Wimmers gute Semmelknödel,837.90
+1996,November,Meat/Poultry,Alice Mutton,1010.88
+1996,November,Meat/Poultry,Mishi Kobe Niku,.00
+1996,November,Meat/Poultry,Pâté chinois,230.40
+1996,November,Meat/Poultry,Perth Pasties,.00
+1996,November,Meat/Poultry,Thüringer Rostbratwurst,3861.00
+1996,November,Meat/Poultry,Tourtière,654.90
+1996,November,Produce,Longlife Tofu,.00
+1996,November,Produce,Manjimup Dried Apples,848.00
+1996,November,Produce,Rössle Sauerkraut,1517.88
+1996,November,Produce,Tofu,.00
+1996,November,Produce,Uncle Bob's Organic Dried Pears,.00
+1996,November,Seafood,Boston Crab Meat,58.80
+1996,November,Seafood,Carnarvon Tigers,.00
+1996,November,Seafood,Escargots de Bourgogne,.00
+1996,November,Seafood,Gravad lax,.00
+1996,November,Seafood,Ikura,595.20
+1996,November,Seafood,Inlagd Sill,288.80
+1996,November,Seafood,Jack's New England Clam Chowder,100.10
+1996,November,Seafood,Konbu,.00
+1996,November,Seafood,Nord-Ost Matjeshering,.00
+1996,November,Seafood,Röd Kaviar,.00
+1996,November,Seafood,Rogede sild,.00
+1996,November,Seafood,Spegesild,.00
+1996,December,Beverages,Chai,183.60
+1996,December,Beverages,Chang,285.00
+1996,December,Beverages,Chartreuse verte,244.80
+1996,December,Beverages,Côte de Blaye,6324.00
+1996,December,Beverages,Guaraná Fantástica,108.00
+1996,December,Beverages,Ipoh Coffee,.00
+1996,December,Beverages,Lakkalikööri,504.00
+1996,December,Beverages,Laughing Lumberjack Lager,.00
+1996,December,Beverages,Outback Lager,720.00
+1996,December,Beverages,Rhönbräu Klosterbier,.00
+1996,December,Beverages,Sasquatch Ale,112.00
+1996,December,Beverages,Steeleye Stout,950.40
+1996,December,Condiments,Aniseed Syrup,.00
+1996,December,Condiments,Chef Anton's Cajun Seasoning,.00
+1996,December,Condiments,Chef Anton's Gumbo Mix,544.00
+1996,December,Condiments,Genen Shouyu,.00
+1996,December,Condiments,Grandma's Boysenberry Spread,.00
+1996,December,Condiments,Gula Malacca,.00
+1996,December,Condiments,Louisiana Fiery Hot Pepper Sauce,302.40
+1996,December,Condiments,Louisiana Hot Spiced Okra,.00
+1996,December,Condiments,Northwoods Cranberry Sauce,.00
+1996,December,Condiments,Original Frankfurter grüne Soße,145.60
+1996,December,Condiments,Sirop d'érable,.00
+1996,December,Condiments,Vegie-spread,505.44
+1996,December,Confections,Chocolade,.00
+1996,December,Confections,Gumbär Gummibärchen,1307.25
+1996,December,Confections,Maxilaku,.00
+1996,December,Confections,NuNuCa Nuß-Nougat-Creme,58.80
+1996,December,Confections,Pavlova,.00
+1996,December,Confections,Schoggi Schokolade,.00
+1996,December,Confections,Scottish Longbreads,664.00
+1996,December,Confections,Sir Rodney's Marmalade,2397.60
+1996,December,Confections,Sir Rodney's Scones,68.00
+1996,December,Confections,Tarte au sucre,1182.00
+1996,December,Confections,Teatime Chocolate Biscuits,.00
+1996,December,Confections,Valkoinen suklaa,195.00
+1996,December,Confections,Zaanse koeken,.00
+1996,December,Dairy Products,Camembert Pierrot,2418.08
+1996,December,Dairy Products,Flotemysost,2597.20
+1996,December,Dairy Products,Geitost,120.00
+1996,December,Dairy Products,Gorgonzola Telino,1559.00
+1996,December,Dairy Products,Gudbrandsdalsost,1670.40
+1996,December,Dairy Products,Mascarpone Fabioli,.00
+1996,December,Dairy Products,Mozzarella di Giovanni,2059.98
+1996,December,Dairy Products,Queso Cabrales,.00
+1996,December,Dairy Products,Queso Manchego La Pastora,.00
+1996,December,Dairy Products,Raclette Courdavault,528.00
+1996,December,Grains/Cereals,Filo Mix,89.60
+1996,December,Grains/Cereals,Gnocchi di nonna Alice,1018.40
+1996,December,Grains/Cereals,Gustaf's Knäckebröd,.00
+1996,December,Grains/Cereals,Ravioli Angelo,.00
+1996,December,Grains/Cereals,Singaporean Hokkien Fried Mee,.00
+1996,December,Grains/Cereals,Tunnbröd,288.00
+1996,December,Grains/Cereals,Wimmers gute Semmelknödel,798.00
+1996,December,Meat/Poultry,Alice Mutton,.00
+1996,December,Meat/Poultry,Mishi Kobe Niku,.00
+1996,December,Meat/Poultry,Pâté chinois,2361.60
+1996,December,Meat/Poultry,Perth Pasties,3170.20
+1996,December,Meat/Poultry,Thüringer Rostbratwurst,3366.00
+1996,December,Meat/Poultry,Tourtière,59.00
+1996,December,Produce,Longlife Tofu,648.00
+1996,December,Produce,Manjimup Dried Apples,648.72
+1996,December,Produce,Rössle Sauerkraut,837.20
+1996,December,Produce,Tofu,864.90
+1996,December,Produce,Uncle Bob's Organic Dried Pears,192.00
+1996,December,Seafood,Boston Crab Meat,.00
+1996,December,Seafood,Carnarvon Tigers,450.00
+1996,December,Seafood,Escargots de Bourgogne,837.40
+1996,December,Seafood,Gravad lax,.00
+1996,December,Seafood,Ikura,396.80
+1996,December,Seafood,Inlagd Sill,72.96
+1996,December,Seafood,Jack's New England Clam Chowder,55.44
+1996,December,Seafood,Konbu,230.40
+1996,December,Seafood,Nord-Ost Matjeshering,335.34
+1996,December,Seafood,Röd Kaviar,.00
+1996,December,Seafood,Rogede sild,91.20
+1996,December,Seafood,Spegesild,673.92
+1997,January,Beverages,Chai,489.60
+1997,January,Beverages,Chang,912.00
+1997,January,Beverages,Chartreuse verte,.00
+1997,January,Beverages,Côte de Blaye,18803.36
+1997,January,Beverages,Guaraná Fantástica,.00
+1997,January,Beverages,Ipoh Coffee,.00
+1997,January,Beverages,Lakkalikööri,417.60
+1997,January,Beverages,Laughing Lumberjack Lager,.00
+1997,January,Beverages,Outback Lager,86.40
+1997,January,Beverages,Rhönbräu Klosterbier,.00
+1997,January,Beverages,Sasquatch Ale,.00
+1997,January,Beverages,Steeleye Stout,1195.20
+1997,January,Condiments,Aniseed Syrup,400.00
+1997,January,Condiments,Chef Anton's Cajun Seasoning,.00
+1997,January,Condiments,Chef Anton's Gumbo Mix,.00
+1997,January,Condiments,Genen Shouyu,.00
+1997,January,Condiments,Grandma's Boysenberry Spread,.00
+1997,January,Condiments,Gula Malacca,496.00
+1997,January,Condiments,Louisiana Fiery Hot Pepper Sauce,336.00
+1997,January,Condiments,Louisiana Hot Spiced Okra,.00
+1997,January,Condiments,Northwoods Cranberry Sauce,.00
+1997,January,Condiments,Original Frankfurter grüne Soße,452.40
+1997,January,Condiments,Sirop d'érable,364.80
+1997,January,Condiments,Vegie-spread,3202.88
+1997,January,Confections,Chocolade,606.90
+1997,January,Confections,Gumbär Gummibärchen,1755.45
+1997,January,Confections,Maxilaku,936.00
+1997,January,Confections,NuNuCa Nuß-Nougat-Creme,.00
+1997,January,Confections,Pavlova,248.12
+1997,January,Confections,Schoggi Schokolade,.00
+1997,January,Confections,Scottish Longbreads,510.00
+1997,January,Confections,Sir Rodney's Marmalade,.00
+1997,January,Confections,Sir Rodney's Scones,712.00
+1997,January,Confections,Tarte au sucre,2955.00
+1997,January,Confections,Teatime Chocolate Biscuits,295.65
+1997,January,Confections,Valkoinen suklaa,520.00
+1997,January,Confections,Zaanse koeken,589.00
+1997,January,Dairy Products,Camembert Pierrot,1550.40
+1997,January,Dairy Products,Flotemysost,1290.00
+1997,January,Dairy Products,Geitost,238.00
+1997,January,Dairy Products,Gorgonzola Telino,140.00
+1997,January,Dairy Products,Gudbrandsdalsost,979.20
+1997,January,Dairy Products,Mascarpone Fabioli,.00
+1997,January,Dairy Products,Mozzarella di Giovanni,.00
+1997,January,Dairy Products,Queso Cabrales,504.00
+1997,January,Dairy Products,Queso Manchego La Pastora,.00
+1997,January,Dairy Products,Raclette Courdavault,4364.80
+1997,January,Grains/Cereals,Filo Mix,.00
+1997,January,Grains/Cereals,Gnocchi di nonna Alice,3192.00
+1997,January,Grains/Cereals,Gustaf's Knäckebröd,.00
+1997,January,Grains/Cereals,Ravioli Angelo,312.00
+1997,January,Grains/Cereals,Singaporean Hokkien Fried Mee,425.60
+1997,January,Grains/Cereals,Tunnbröd,432.00
+1997,January,Grains/Cereals,Wimmers gute Semmelknödel,186.20
+1997,January,Meat/Poultry,Alice Mutton,2355.60
+1997,January,Meat/Poultry,Mishi Kobe Niku,1396.80
+1997,January,Meat/Poultry,Pâté chinois,144.00
+1997,January,Meat/Poultry,Perth Pasties,596.05
+1997,January,Meat/Poultry,Thüringer Rostbratwurst,2079.00
+1997,January,Meat/Poultry,Tourtière,271.40
+1997,January,Produce,Longlife Tofu,120.00
+1997,January,Produce,Manjimup Dried Apples,.00
+1997,January,Produce,Rössle Sauerkraut,1375.92
+1997,January,Produce,Tofu,1209.00
+1997,January,Produce,Uncle Bob's Organic Dried Pears,.00
+1997,January,Seafood,Boston Crab Meat,577.71
+1997,January,Seafood,Carnarvon Tigers,.00
+1997,January,Seafood,Escargots de Bourgogne,.00
+1997,January,Seafood,Gravad lax,208.00
+1997,January,Seafood,Ikura,.00
+1997,January,Seafood,Inlagd Sill,68.40
+1997,January,Seafood,Jack's New England Clam Chowder,154.00
+1997,January,Seafood,Konbu,8.64
+1997,January,Seafood,Nord-Ost Matjeshering,372.60
+1997,January,Seafood,Röd Kaviar,216.00
+1997,January,Seafood,Rogede sild,.00
+1997,January,Seafood,Spegesild,206.40
+1997,February,Beverages,Chai,.00
+1997,February,Beverages,Chang,733.40
+1997,February,Beverages,Chartreuse verte,374.40
+1997,February,Beverages,Côte de Blaye,.00
+1997,February,Beverages,Guaraná Fantástica,64.80
+1997,February,Beverages,Ipoh Coffee,736.00
+1997,February,Beverages,Lakkalikööri,220.32
+1997,February,Beverages,Laughing Lumberjack Lager,.00
+1997,February,Beverages,Outback Lager,270.00
+1997,February,Beverages,Rhönbräu Klosterbier,152.52
+1997,February,Beverages,Sasquatch Ale,179.20
+1997,February,Beverages,Steeleye Stout,115.20
+1997,February,Condiments,Aniseed Syrup,.00
+1997,February,Condiments,Chef Anton's Cajun Seasoning,.00
+1997,February,Condiments,Chef Anton's Gumbo Mix,.00
+1997,February,Condiments,Genen Shouyu,.00
+1997,February,Condiments,Grandma's Boysenberry Spread,.00
+1997,February,Condiments,Gula Malacca,1472.50
+1997,February,Condiments,Louisiana Fiery Hot Pepper Sauce,1011.36
+1997,February,Condiments,Louisiana Hot Spiced Okra,816.00
+1997,February,Condiments,Northwoods Cranberry Sauce,.00
+1997,February,Condiments,Original Frankfurter grüne Soße,514.80
+1997,February,Condiments,Sirop d'érable,2314.20
+1997,February,Condiments,Vegie-spread,.00
+1997,February,Confections,Chocolade,137.70
+1997,February,Confections,Gumbär Gummibärchen,1269.90
+1997,February,Confections,Maxilaku,285.60
+1997,February,Confections,NuNuCa Nuß-Nougat-Creme,.00
+1997,February,Confections,Pavlova,1023.74
+1997,February,Confections,Schoggi Schokolade,1755.00
+1997,February,Confections,Scottish Longbreads,157.50
+1997,February,Confections,Sir Rodney's Marmalade,.00
+1997,February,Confections,Sir Rodney's Scones,512.00
+1997,February,Confections,Tarte au sucre,1379.00
+1997,February,Confections,Teatime Chocolate Biscuits,458.44
+1997,February,Confections,Valkoinen suklaa,.00
+1997,February,Confections,Zaanse koeken,.00
+1997,February,Dairy Products,Camembert Pierrot,.00
+1997,February,Dairy Products,Flotemysost,1410.40
+1997,February,Dairy Products,Geitost,32.00
+1997,February,Dairy Products,Gorgonzola Telino,27.00
+1997,February,Dairy Products,Gudbrandsdalsost,.00
+1997,February,Dairy Products,Mascarpone Fabioli,.00
+1997,February,Dairy Products,Mozzarella di Giovanni,1390.00
+1997,February,Dairy Products,Queso Cabrales,685.44
+1997,February,Dairy Products,Queso Manchego La Pastora,456.00
+1997,February,Dairy Products,Raclette Courdavault,1584.00
+1997,February,Grains/Cereals,Filo Mix,187.60
+1997,February,Grains/Cereals,Gnocchi di nonna Alice,2401.60
+1997,February,Grains/Cereals,Gustaf's Knäckebröd,201.60
+1997,February,Grains/Cereals,Ravioli Angelo,187.20
+1997,February,Grains/Cereals,Singaporean Hokkien Fried Mee,.00
+1997,February,Grains/Cereals,Tunnbröd,.00
+1997,February,Grains/Cereals,Wimmers gute Semmelknödel,1715.70
+1997,February,Meat/Poultry,Alice Mutton,312.00
+1997,February,Meat/Poultry,Mishi Kobe Niku,.00
+1997,February,Meat/Poultry,Pâté chinois,2937.60
+1997,February,Meat/Poultry,Perth Pasties,1703.00
+1997,February,Meat/Poultry,Thüringer Rostbratwurst,2019.60
+1997,February,Meat/Poultry,Tourtière,588.82
+1997,February,Produce,Longlife Tofu,240.00
+1997,February,Produce,Manjimup Dried Apples,.00
+1997,February,Produce,Rössle Sauerkraut,2074.80
+1997,February,Produce,Tofu,.00
+1997,February,Produce,Uncle Bob's Organic Dried Pears,364.80
+1997,February,Seafood,Boston Crab Meat,294.00
+1997,February,Seafood,Carnarvon Tigers,.00
+1997,February,Seafood,Escargots de Bourgogne,.00
+1997,February,Seafood,Gravad lax,.00
+1997,February,Seafood,Ikura,744.00
+1997,February,Seafood,Inlagd Sill,.00
+1997,February,Seafood,Jack's New England Clam Chowder,231.00
+1997,February,Seafood,Konbu,.00
+1997,February,Seafood,Nord-Ost Matjeshering,434.70
+1997,February,Seafood,Röd Kaviar,.00
+1997,February,Seafood,Rogede sild,.00
+1997,February,Seafood,Spegesild,307.20
+1997,March,Beverages,Chai,216.00
+1997,March,Beverages,Chang,790.40
+1997,March,Beverages,Chartreuse verte,216.00
+1997,March,Beverages,Côte de Blaye,6324.00
+1997,March,Beverages,Guaraná Fantástica,464.40
+1997,March,Beverages,Ipoh Coffee,662.40
+1997,March,Beverages,Lakkalikööri,514.08
+1997,March,Beverages,Laughing Lumberjack Lager,.00
+1997,March,Beverages,Outback Lager,792.00
+1997,March,Beverages,Rhönbräu Klosterbier,285.20
+1997,March,Beverages,Sasquatch Ale,372.40
+1997,March,Beverages,Steeleye Stout,.00
+1997,March,Condiments,Aniseed Syrup,144.00
+1997,March,Condiments,Chef Anton's Cajun Seasoning,225.28
+1997,March,Condiments,Chef Anton's Gumbo Mix,.00
+1997,March,Condiments,Genen Shouyu,.00
+1997,March,Condiments,Grandma's Boysenberry Spread,.00
+1997,March,Condiments,Gula Malacca,223.98
+1997,March,Condiments,Louisiana Fiery Hot Pepper Sauce,.00
+1997,March,Condiments,Louisiana Hot Spiced Okra,693.60
+1997,March,Condiments,Northwoods Cranberry Sauce,.00
+1997,March,Condiments,Original Frankfurter grüne Soße,358.28
+1997,March,Condiments,Sirop d'érable,.00
+1997,March,Condiments,Vegie-spread,.00
+1997,March,Confections,Chocolade,.00
+1997,March,Confections,Gumbär Gummibärchen,747.00
+1997,March,Confections,Maxilaku,384.00
+1997,March,Confections,NuNuCa Nuß-Nougat-Creme,134.40
+1997,March,Confections,Pavlova,663.73
+1997,March,Confections,Schoggi Schokolade,.00
+1997,March,Confections,Scottish Longbreads,300.00
+1997,March,Confections,Sir Rodney's Marmalade,.00
+1997,March,Confections,Sir Rodney's Scones,238.00
+1997,March,Confections,Tarte au sucre,.00
+1997,March,Confections,Teatime Chocolate Biscuits,189.80
+1997,March,Confections,Valkoinen suklaa,325.00
+1997,March,Confections,Zaanse koeken,228.00
+1997,March,Dairy Products,Camembert Pierrot,1632.00
+1997,March,Dairy Products,Flotemysost,206.40
+1997,March,Dairy Products,Geitost,24.00
+1997,March,Dairy Products,Gorgonzola Telino,297.50
+1997,March,Dairy Products,Gudbrandsdalsost,.00
+1997,March,Dairy Products,Mascarpone Fabioli,.00
+1997,March,Dairy Products,Mozzarella di Giovanni,.00
+1997,March,Dairy Products,Queso Cabrales,441.00
+1997,March,Dairy Products,Queso Manchego La Pastora,.00
+1997,March,Dairy Products,Raclette Courdavault,7128.00
+1997,March,Grains/Cereals,Filo Mix,.00
+1997,March,Grains/Cereals,Gnocchi di nonna Alice,1337.60
+1997,March,Grains/Cereals,Gustaf's Knäckebröd,.00
+1997,March,Grains/Cereals,Ravioli Angelo,.00
+1997,March,Grains/Cereals,Singaporean Hokkien Fried Mee,560.00
+1997,March,Grains/Cereals,Tunnbröd,259.20
+1997,March,Grains/Cereals,Wimmers gute Semmelknödel,1010.80
+1997,March,Meat/Poultry,Alice Mutton,.00
+1997,March,Meat/Poultry,Mishi Kobe Niku,.00
+1997,March,Meat/Poultry,Pâté chinois,554.88
+1997,March,Meat/Poultry,Perth Pasties,733.60
+1997,March,Meat/Poultry,Thüringer Rostbratwurst,1603.80
+1997,March,Meat/Poultry,Tourtière,106.20
+1997,March,Produce,Longlife Tofu,128.00
+1997,March,Produce,Manjimup Dried Apples,1950.40
+1997,March,Produce,Rössle Sauerkraut,655.20
+1997,March,Produce,Tofu,223.20
+1997,March,Produce,Uncle Bob's Organic Dried Pears,720.00
+1997,March,Seafood,Boston Crab Meat,896.70
+1997,March,Seafood,Carnarvon Tigers,1500.00
+1997,March,Seafood,Escargots de Bourgogne,.00
+1997,March,Seafood,Gravad lax,.00
+1997,March,Seafood,Ikura,471.20
+1997,March,Seafood,Inlagd Sill,.00
+1997,March,Seafood,Jack's New England Clam Chowder,.00
+1997,March,Seafood,Konbu,4.80
+1997,March,Seafood,Nord-Ost Matjeshering,165.60
+1997,March,Seafood,Röd Kaviar,192.00
+1997,March,Seafood,Rogede sild,205.20
+1997,March,Seafood,Spegesild,48.00
+1997,April,Beverages,Chai,576.00
+1997,April,Beverages,Chang,228.00
+1997,April,Beverages,Chartreuse verte,180.00
+1997,April,Beverages,Côte de Blaye,3952.50
+1997,April,Beverages,Guaraná Fantástica,159.75
+1997,April,Beverages,Ipoh Coffee,586.50
+1997,April,Beverages,Lakkalikööri,.00
+1997,April,Beverages,Laughing Lumberjack Lager,420.00
+1997,April,Beverages,Outback Lager,279.00
+1997,April,Beverages,Rhönbräu Klosterbier,638.60
+1997,April,Beverages,Sasquatch Ale,.00
+1997,April,Beverages,Steeleye Stout,54.00
+1997,April,Condiments,Aniseed Syrup,.00
+1997,April,Condiments,Chef Anton's Cajun Seasoning,935.00
+1997,April,Condiments,Chef Anton's Gumbo Mix,.00
+1997,April,Condiments,Genen Shouyu,176.70
+1997,April,Condiments,Grandma's Boysenberry Spread,.00
+1997,April,Condiments,Gula Malacca,175.05
+1997,April,Condiments,Louisiana Fiery Hot Pepper Sauce,1468.75
+1997,April,Condiments,Louisiana Hot Spiced Okra,122.40
+1997,April,Condiments,Northwoods Cranberry Sauce,1300.00
+1997,April,Condiments,Original Frankfurter grüne Soße,312.00
+1997,April,Condiments,Sirop d'érable,1054.50
+1997,April,Condiments,Vegie-spread,.00
+1997,April,Confections,Chocolade,162.56
+1997,April,Confections,Gumbär Gummibärchen,.00
+1997,April,Confections,Maxilaku,500.00
+1997,April,Confections,NuNuCa Nuß-Nougat-Creme,865.20
+1997,April,Confections,Pavlova,872.50
+1997,April,Confections,Schoggi Schokolade,5268.00
+1997,April,Confections,Scottish Longbreads,75.00
+1997,April,Confections,Sir Rodney's Marmalade,3159.00
+1997,April,Confections,Sir Rodney's Scones,440.00
+1997,April,Confections,Tarte au sucre,147.90
+1997,April,Confections,Teatime Chocolate Biscuits,.00
+1997,April,Confections,Valkoinen suklaa,.00
+1997,April,Confections,Zaanse koeken,48.45
+1997,April,Dairy Products,Camembert Pierrot,3097.40
+1997,April,Dairy Products,Flotemysost,.00
+1997,April,Dairy Products,Geitost,34.00
+1997,April,Dairy Products,Gorgonzola Telino,190.00
+1997,April,Dairy Products,Gudbrandsdalsost,259.20
+1997,April,Dairy Products,Mascarpone Fabioli,1280.00
+1997,April,Dairy Products,Mozzarella di Giovanni,695.00
+1997,April,Dairy Products,Queso Cabrales,.00
+1997,April,Dairy Products,Queso Manchego La Pastora,.00
+1997,April,Dairy Products,Raclette Courdavault,220.00
+1997,April,Grains/Cereals,Filo Mix,42.00
+1997,April,Grains/Cereals,Gnocchi di nonna Alice,5517.60
+1997,April,Grains/Cereals,Gustaf's Knäckebröd,.00
+1997,April,Grains/Cereals,Ravioli Angelo,.00
+1997,April,Grains/Cereals,Singaporean Hokkien Fried Mee,912.80
+1997,April,Grains/Cereals,Tunnbröd,72.00
+1997,April,Grains/Cereals,Wimmers gute Semmelknödel,.00
+1997,April,Meat/Poultry,Alice Mutton,.00
+1997,April,Meat/Poultry,Mishi Kobe Niku,1319.20
+1997,April,Meat/Poultry,Pâté chinois,.00
+1997,April,Meat/Poultry,Perth Pasties,688.80
+1997,April,Meat/Poultry,Thüringer Rostbratwurst,4456.44
+1997,April,Meat/Poultry,Tourtière,149.00
+1997,April,Produce,Longlife Tofu,.00
+1997,April,Produce,Manjimup Dried Apples,.00
+1997,April,Produce,Rössle Sauerkraut,2991.36
+1997,April,Produce,Tofu,1627.50
+1997,April,Produce,Uncle Bob's Organic Dried Pears,1275.00
+1997,April,Seafood,Boston Crab Meat,460.00
+1997,April,Seafood,Carnarvon Tigers,1406.25
+1997,April,Seafood,Escargots de Bourgogne,.00
+1997,April,Seafood,Gravad lax,.00
+1997,April,Seafood,Ikura,471.20
+1997,April,Seafood,Inlagd Sill,.00
+1997,April,Seafood,Jack's New England Clam Chowder,945.30
+1997,April,Seafood,Konbu,60.00
+1997,April,Seafood,Nord-Ost Matjeshering,414.24
+1997,April,Seafood,Röd Kaviar,.00
+1997,April,Seafood,Rogede sild,199.50
+1997,April,Seafood,Spegesild,91.80
+1997,May,Beverages,Chai,122.40
+1997,May,Beverages,Chang,.00
+1997,May,Beverages,Chartreuse verte,.00
+1997,May,Beverages,Côte de Blaye,8853.60
+1997,May,Beverages,Guaraná Fantástica,141.75
+1997,May,Beverages,Ipoh Coffee,3910.00
+1997,May,Beverages,Lakkalikööri,900.00
+1997,May,Beverages,Laughing Lumberjack Lager,98.00
+1997,May,Beverages,Outback Lager,105.00
+1997,May,Beverages,Rhönbräu Klosterbier,232.50
+1997,May,Beverages,Sasquatch Ale,105.00
+1997,May,Beverages,Steeleye Stout,954.00
+1997,May,Condiments,Aniseed Syrup,600.00
+1997,May,Condiments,Chef Anton's Cajun Seasoning,2035.00
+1997,May,Condiments,Chef Anton's Gumbo Mix,.00
+1997,May,Condiments,Genen Shouyu,.00
+1997,May,Condiments,Grandma's Boysenberry Spread,.00
+1997,May,Condiments,Gula Malacca,778.00
+1997,May,Condiments,Louisiana Fiery Hot Pepper Sauce,682.02
+1997,May,Condiments,Louisiana Hot Spiced Okra,408.00
+1997,May,Condiments,Northwoods Cranberry Sauce,.00
+1997,May,Condiments,Original Frankfurter grüne Soße,123.50
+1997,May,Condiments,Sirop d'érable,826.50
+1997,May,Condiments,Vegie-spread,.00
+1997,May,Confections,Chocolade,.00
+1997,May,Confections,Gumbär Gummibärchen,1249.20
+1997,May,Confections,Maxilaku,120.00
+1997,May,Confections,NuNuCa Nuß-Nougat-Creme,.00
+1997,May,Confections,Pavlova,1334.92
+1997,May,Confections,Schoggi Schokolade,.00
+1997,May,Confections,Scottish Longbreads,687.50
+1997,May,Confections,Sir Rodney's Marmalade,1093.50
+1997,May,Confections,Sir Rodney's Scones,204.00
+1997,May,Confections,Tarte au sucre,2908.70
+1997,May,Confections,Teatime Chocolate Biscuits,92.00
+1997,May,Confections,Valkoinen suklaa,.00
+1997,May,Confections,Zaanse koeken,.00
+1997,May,Dairy Products,Camembert Pierrot,892.50
+1997,May,Dairy Products,Flotemysost,174.15
+1997,May,Dairy Products,Geitost,128.50
+1997,May,Dairy Products,Gorgonzola Telino,1584.38
+1997,May,Dairy Products,Gudbrandsdalsost,1008.00
+1997,May,Dairy Products,Mascarpone Fabioli,652.80
+1997,May,Dairy Products,Mozzarella di Giovanni,1914.00
+1997,May,Dairy Products,Queso Cabrales,1832.25
+1997,May,Dairy Products,Queso Manchego La Pastora,1396.50
+1997,May,Dairy Products,Raclette Courdavault,852.50
+1997,May,Grains/Cereals,Filo Mix,.00
+1997,May,Grains/Cereals,Gnocchi di nonna Alice,969.00
+1997,May,Grains/Cereals,Gustaf's Knäckebröd,504.00
+1997,May,Grains/Cereals,Ravioli Angelo,87.75
+1997,May,Grains/Cereals,Singaporean Hokkien Fried Mee,.00
+1997,May,Grains/Cereals,Tunnbröd,706.50
+1997,May,Grains/Cereals,Wimmers gute Semmelknödel,.00
+1997,May,Meat/Poultry,Alice Mutton,2718.30
+1997,May,Meat/Poultry,Mishi Kobe Niku,.00
+1997,May,Meat/Poultry,Pâté chinois,336.00
+1997,May,Meat/Poultry,Perth Pasties,.00
+1997,May,Meat/Poultry,Thüringer Rostbratwurst,.00
+1997,May,Meat/Poultry,Tourtière,341.21
+1997,May,Produce,Longlife Tofu,.00
+1997,May,Produce,Manjimup Dried Apples,2480.40
+1997,May,Produce,Rössle Sauerkraut,319.20
+1997,May,Produce,Tofu,.00
+1997,May,Produce,Uncle Bob's Organic Dried Pears,300.00
+1997,May,Seafood,Boston Crab Meat,561.20
+1997,May,Seafood,Carnarvon Tigers,.00
+1997,May,Seafood,Escargots de Bourgogne,265.00
+1997,May,Seafood,Gravad lax,421.20
+1997,May,Seafood,Ikura,62.00
+1997,May,Seafood,Inlagd Sill,2223.00
+1997,May,Seafood,Jack's New England Clam Chowder,187.21
+1997,May,Seafood,Konbu,108.00
+1997,May,Seafood,Nord-Ost Matjeshering,906.15
+1997,May,Seafood,Röd Kaviar,477.00
+1997,May,Seafood,Rogede sild,807.50
+1997,May,Seafood,Spegesild,.00
+1997,June,Beverages,Chai,180.00
+1997,June,Beverages,Chang,.00
+1997,June,Beverages,Chartreuse verte,180.00
+1997,June,Beverages,Côte de Blaye,.00
+1997,June,Beverages,Guaraná Fantástica,166.05
+1997,June,Beverages,Ipoh Coffee,.00
+1997,June,Beverages,Lakkalikööri,1152.00
+1997,June,Beverages,Laughing Lumberjack Lager,.00
+1997,June,Beverages,Outback Lager,.00
+1997,June,Beverages,Rhönbräu Klosterbier,887.38
+1997,June,Beverages,Sasquatch Ale,560.00
+1997,June,Beverages,Steeleye Stout,360.00
+1997,June,Condiments,Aniseed Syrup,.00
+1997,June,Condiments,Chef Anton's Cajun Seasoning,.00
+1997,June,Condiments,Chef Anton's Gumbo Mix,.00
+1997,June,Condiments,Genen Shouyu,155.00
+1997,June,Condiments,Grandma's Boysenberry Spread,.00
+1997,June,Condiments,Gula Malacca,602.95
+1997,June,Condiments,Louisiana Fiery Hot Pepper Sauce,599.92
+1997,June,Condiments,Louisiana Hot Spiced Okra,.00
+1997,June,Condiments,Northwoods Cranberry Sauce,.00
+1997,June,Condiments,Original Frankfurter grüne Soße,234.00
+1997,June,Condiments,Sirop d'érable,.00
+1997,June,Condiments,Vegie-spread,263.40
+1997,June,Confections,Chocolade,.00
+1997,June,Confections,Gumbär Gummibärchen,.00
+1997,June,Confections,Maxilaku,.00
+1997,June,Confections,NuNuCa Nuß-Nougat-Creme,.00
+1997,June,Confections,Pavlova,188.46
+1997,June,Confections,Schoggi Schokolade,.00
+1997,June,Confections,Scottish Longbreads,.00
+1997,June,Confections,Sir Rodney's Marmalade,.00
+1997,June,Confections,Sir Rodney's Scones,.00
+1997,June,Confections,Tarte au sucre,1491.32
+1997,June,Confections,Teatime Chocolate Biscuits,257.60
+1997,June,Confections,Valkoinen suklaa,.00
+1997,June,Confections,Zaanse koeken,237.50
+1997,June,Dairy Products,Camembert Pierrot,693.60
+1997,June,Dairy Products,Flotemysost,.00
+1997,June,Dairy Products,Geitost,80.00
+1997,June,Dairy Products,Gorgonzola Telino,1865.00
+1997,June,Dairy Products,Gudbrandsdalsost,306.00
+1997,June,Dairy Products,Mascarpone Fabioli,288.00
+1997,June,Dairy Products,Mozzarella di Giovanni,1879.20
+1997,June,Dairy Products,Queso Cabrales,924.00
+1997,June,Dairy Products,Queso Manchego La Pastora,.00
+1997,June,Dairy Products,Raclette Courdavault,2420.00
+1997,June,Grains/Cereals,Filo Mix,700.00
+1997,June,Grains/Cereals,Gnocchi di nonna Alice,3382.00
+1997,June,Grains/Cereals,Gustaf's Knäckebröd,.00
+1997,June,Grains/Cereals,Ravioli Angelo,195.00
+1997,June,Grains/Cereals,Singaporean Hokkien Fried Mee,333.20
+1997,June,Grains/Cereals,Tunnbröd,.00
+1997,June,Grains/Cereals,Wimmers gute Semmelknödel,1735.65
+1997,June,Meat/Poultry,Alice Mutton,1294.80
+1997,June,Meat/Poultry,Mishi Kobe Niku,.00
+1997,June,Meat/Poultry,Pâté chinois,980.40
+1997,June,Meat/Poultry,Perth Pasties,1410.40
+1997,June,Meat/Poultry,Thüringer Rostbratwurst,1237.90
+1997,June,Meat/Poultry,Tourtière,.00
+1997,June,Produce,Longlife Tofu,.00
+1997,June,Produce,Manjimup Dried Apples,4717.00
+1997,June,Produce,Rössle Sauerkraut,.00
+1997,June,Produce,Tofu,1106.70
+1997,June,Produce,Uncle Bob's Organic Dried Pears,.00
+1997,June,Seafood,Boston Crab Meat,956.80
+1997,June,Seafood,Carnarvon Tigers,956.25
+1997,June,Seafood,Escargots de Bourgogne,.00
+1997,June,Seafood,Gravad lax,.00
+1997,June,Seafood,Ikura,155.00
+1997,June,Seafood,Inlagd Sill,475.00
+1997,June,Seafood,Jack's New England Clam Chowder,192.52
+1997,June,Seafood,Konbu,.00
+1997,June,Seafood,Nord-Ost Matjeshering,517.80
+1997,June,Seafood,Röd Kaviar,45.00
+1997,June,Seafood,Rogede sild,.00
+1997,June,Seafood,Spegesild,.00
+1997,July,Beverages,Chai,522.00
+1997,July,Beverages,Chang,190.00
+1997,July,Beverages,Chartreuse verte,90.00
+1997,July,Beverages,Côte de Blaye,3754.88
+1997,July,Beverages,Guaraná Fantástica,126.00
+1997,July,Beverages,Ipoh Coffee,.00
+1997,July,Beverages,Lakkalikööri,1659.60
+1997,July,Beverages,Laughing Lumberjack Lager,.00
+1997,July,Beverages,Outback Lager,213.75
+1997,July,Beverages,Rhönbräu Klosterbier,496.00
+1997,July,Beverages,Sasquatch Ale,.00
+1997,July,Beverages,Steeleye Stout,837.00
+1997,July,Condiments,Aniseed Syrup,140.00
+1997,July,Condiments,Chef Anton's Cajun Seasoning,352.00
+1997,July,Condiments,Chef Anton's Gumbo Mix,.00
+1997,July,Condiments,Genen Shouyu,368.13
+1997,July,Condiments,Grandma's Boysenberry Spread,.00
+1997,July,Condiments,Gula Malacca,.00
+1997,July,Condiments,Louisiana Fiery Hot Pepper Sauce,202.08
+1997,July,Condiments,Louisiana Hot Spiced Okra,.00
+1997,July,Condiments,Northwoods Cranberry Sauce,.00
+1997,July,Condiments,Original Frankfurter grüne Soße,1049.75
+1997,July,Condiments,Sirop d'érable,2565.00
+1997,July,Condiments,Vegie-spread,842.88
+1997,July,Confections,Chocolade,68.85
+1997,July,Confections,Gumbär Gummibärchen,335.72
+1997,July,Confections,Maxilaku,835.00
+1997,July,Confections,NuNuCa Nuß-Nougat-Creme,.00
+1997,July,Confections,Pavlova,497.32
+1997,July,Confections,Schoggi Schokolade,2195.00
+1997,July,Confections,Scottish Longbreads,.00
+1997,July,Confections,Sir Rodney's Marmalade,1360.80
+1997,July,Confections,Sir Rodney's Scones,140.00
+1997,July,Confections,Tarte au sucre,887.40
+1997,July,Confections,Teatime Chocolate Biscuits,.00
+1997,July,Confections,Valkoinen suklaa,.00
+1997,July,Confections,Zaanse koeken,142.50
+1997,July,Dairy Products,Camembert Pierrot,4131.00
+1997,July,Dairy Products,Flotemysost,806.25
+1997,July,Dairy Products,Geitost,35.00
+1997,July,Dairy Products,Gorgonzola Telino,.00
+1997,July,Dairy Products,Gudbrandsdalsost,2331.00
+1997,July,Dairy Products,Mascarpone Fabioli,.00
+1997,July,Dairy Products,Mozzarella di Giovanni,417.60
+1997,July,Dairy Products,Queso Cabrales,294.00
+1997,July,Dairy Products,Queso Manchego La Pastora,.00
+1997,July,Dairy Products,Raclette Courdavault,4372.50
+1997,July,Grains/Cereals,Filo Mix,191.80
+1997,July,Grains/Cereals,Gnocchi di nonna Alice,1748.00
+1997,July,Grains/Cereals,Gustaf's Knäckebröd,1008.00
+1997,July,Grains/Cereals,Ravioli Angelo,390.00
+1997,July,Grains/Cereals,Singaporean Hokkien Fried Mee,1120.00
+1997,July,Grains/Cereals,Tunnbröd,.00
+1997,July,Grains/Cereals,Wimmers gute Semmelknödel,.00
+1997,July,Meat/Poultry,Alice Mutton,3900.00
+1997,July,Meat/Poultry,Mishi Kobe Niku,.00
+1997,July,Meat/Poultry,Pâté chinois,504.00
+1997,July,Meat/Poultry,Perth Pasties,.00
+1997,July,Meat/Poultry,Thüringer Rostbratwurst,.00
+1997,July,Meat/Poultry,Tourtière,402.30
+1997,July,Produce,Longlife Tofu,.00
+1997,July,Produce,Manjimup Dried Apples,.00
+1997,July,Produce,Rössle Sauerkraut,.00
+1997,July,Produce,Tofu,.00
+1997,July,Produce,Uncle Bob's Organic Dried Pears,1650.00
+1997,July,Seafood,Boston Crab Meat,772.80
+1997,July,Seafood,Carnarvon Tigers,2000.00
+1997,July,Seafood,Escargots de Bourgogne,397.50
+1997,July,Seafood,Gravad lax,.00
+1997,July,Seafood,Ikura,2480.00
+1997,July,Seafood,Inlagd Sill,1344.25
+1997,July,Seafood,Jack's New England Clam Chowder,.00
+1997,July,Seafood,Konbu,403.20
+1997,July,Seafood,Nord-Ost Matjeshering,.00
+1997,July,Seafood,Röd Kaviar,450.00
+1997,July,Seafood,Rogede sild,.00
+1997,July,Seafood,Spegesild,.00
+1997,August,Beverages,Chai,652.50
+1997,August,Beverages,Chang,1871.50
+1997,August,Beverages,Chartreuse verte,643.50
+1997,August,Beverages,Côte de Blaye,.00
+1997,August,Beverages,Guaraná Fantástica,93.38
+1997,August,Beverages,Ipoh Coffee,920.00
+1997,August,Beverages,Lakkalikööri,630.00
+1997,August,Beverages,Laughing Lumberjack Lager,.00
+1997,August,Beverages,Outback Lager,468.75
+1997,August,Beverages,Rhönbräu Klosterbier,71.30
+1997,August,Beverages,Sasquatch Ale,.00
+1997,August,Beverages,Steeleye Stout,486.00
+1997,August,Condiments,Aniseed Syrup,.00
+1997,August,Condiments,Chef Anton's Cajun Seasoning,748.00
+1997,August,Condiments,Chef Anton's Gumbo Mix,288.23
+1997,August,Condiments,Genen Shouyu,.00
+1997,August,Condiments,Grandma's Boysenberry Spread,1750.00
+1997,August,Condiments,Gula Malacca,194.50
+1997,August,Condiments,Louisiana Fiery Hot Pepper Sauce,442.05
+1997,August,Condiments,Louisiana Hot Spiced Okra,.00
+1997,August,Condiments,Northwoods Cranberry Sauce,.00
+1997,August,Condiments,Original Frankfurter grüne Soße,341.25
+1997,August,Condiments,Sirop d'érable,456.00
+1997,August,Condiments,Vegie-spread,.00
+1997,August,Confections,Chocolade,.00
+1997,August,Confections,Gumbär Gummibärchen,929.09
+1997,August,Confections,Maxilaku,.00
+1997,August,Confections,NuNuCa Nuß-Nougat-Creme,.00
+1997,August,Confections,Pavlova,.00
+1997,August,Confections,Schoggi Schokolade,.00
+1997,August,Confections,Scottish Longbreads,367.50
+1997,August,Confections,Sir Rodney's Marmalade,.00
+1997,August,Confections,Sir Rodney's Scones,885.00
+1997,August,Confections,Tarte au sucre,4091.90
+1997,August,Confections,Teatime Chocolate Biscuits,446.20
+1997,August,Confections,Valkoinen suklaa,385.94
+1997,August,Confections,Zaanse koeken,.00
+1997,August,Dairy Products,Camembert Pierrot,1020.00
+1997,August,Dairy Products,Flotemysost,1236.25
+1997,August,Dairy Products,Geitost,47.50
+1997,August,Dairy Products,Gorgonzola Telino,.00
+1997,August,Dairy Products,Gudbrandsdalsost,540.00
+1997,August,Dairy Products,Mascarpone Fabioli,.00
+1997,August,Dairy Products,Mozzarella di Giovanni,2610.00
+1997,August,Dairy Products,Queso Cabrales,210.00
+1997,August,Dairy Products,Queso Manchego La Pastora,1162.80
+1997,August,Dairy Products,Raclette Courdavault,.00
+1997,August,Grains/Cereals,Filo Mix,35.00
+1997,August,Grains/Cereals,Gnocchi di nonna Alice,2926.00
+1997,August,Grains/Cereals,Gustaf's Knäckebröd,1995.00
+1997,August,Grains/Cereals,Ravioli Angelo,.00
+1997,August,Grains/Cereals,Singaporean Hokkien Fried Mee,70.00
+1997,August,Grains/Cereals,Tunnbröd,90.00
+1997,August,Grains/Cereals,Wimmers gute Semmelknödel,299.25
+1997,August,Meat/Poultry,Alice Mutton,.00
+1997,August,Meat/Poultry,Mishi Kobe Niku,.00
+1997,August,Meat/Poultry,Pâté chinois,273.60
+1997,August,Meat/Poultry,Perth Pasties,1172.60
+1997,August,Meat/Poultry,Thüringer Rostbratwurst,3218.54
+1997,August,Meat/Poultry,Tourtière,223.50
+1997,August,Produce,Longlife Tofu,.00
+1997,August,Produce,Manjimup Dried Apples,795.00
+1997,August,Produce,Rössle Sauerkraut,1881.00
+1997,August,Produce,Tofu,558.00
+1997,August,Produce,Uncle Bob's Organic Dried Pears,1050.00
+1997,August,Seafood,Boston Crab Meat,1104.00
+1997,August,Seafood,Carnarvon Tigers,5100.00
+1997,August,Seafood,Escargots de Bourgogne,79.50
+1997,August,Seafood,Gravad lax,.00
+1997,August,Seafood,Ikura,418.50
+1997,August,Seafood,Inlagd Sill,285.00
+1997,August,Seafood,Jack's New England Clam Chowder,.00
+1997,August,Seafood,Konbu,66.30
+1997,August,Seafood,Nord-Ost Matjeshering,776.70
+1997,August,Seafood,Röd Kaviar,446.25
+1997,August,Seafood,Rogede sild,190.00
+1997,August,Seafood,Spegesild,244.80
+1997,September,Beverages,Chai,.00
+1997,September,Beverages,Chang,.00
+1997,September,Beverages,Chartreuse verte,367.20
+1997,September,Beverages,Côte de Blaye,3557.25
+1997,September,Beverages,Guaraná Fantástica,.00
+1997,September,Beverages,Ipoh Coffee,276.00
+1997,September,Beverages,Lakkalikööri,180.00
+1997,September,Beverages,Laughing Lumberjack Lager,350.00
+1997,September,Beverages,Outback Lager,570.00
+1997,September,Beverages,Rhönbräu Klosterbier,426.25
+1997,September,Beverages,Sasquatch Ale,.00
+1997,September,Beverages,Steeleye Stout,.00
+1997,September,Condiments,Aniseed Syrup,.00
+1997,September,Condiments,Chef Anton's Cajun Seasoning,237.60
+1997,September,Condiments,Chef Anton's Gumbo Mix,.00
+1997,September,Condiments,Genen Shouyu,775.00
+1997,September,Condiments,Grandma's Boysenberry Spread,.00
+1997,September,Condiments,Gula Malacca,898.59
+1997,September,Condiments,Louisiana Fiery Hot Pepper Sauce,731.49
+1997,September,Condiments,Louisiana Hot Spiced Okra,68.00
+1997,September,Condiments,Northwoods Cranberry Sauce,.00
+1997,September,Condiments,Original Frankfurter grüne Soße,864.50
+1997,September,Condiments,Sirop d'érable,.00
+1997,September,Condiments,Vegie-spread,.00
+1997,September,Confections,Chocolade,.00
+1997,September,Confections,Gumbär Gummibärchen,1264.82
+1997,September,Confections,Maxilaku,.00
+1997,September,Confections,NuNuCa Nuß-Nougat-Creme,.00
+1997,September,Confections,Pavlova,1352.37
+1997,September,Confections,Schoggi Schokolade,.00
+1997,September,Confections,Scottish Longbreads,125.00
+1997,September,Confections,Sir Rodney's Marmalade,1701.00
+1997,September,Confections,Sir Rodney's Scones,708.00
+1997,September,Confections,Tarte au sucre,493.00
+1997,September,Confections,Teatime Chocolate Biscuits,395.60
+1997,September,Confections,Valkoinen suklaa,.00
+1997,September,Confections,Zaanse koeken,668.80
+1997,September,Dairy Products,Camembert Pierrot,4428.50
+1997,September,Dairy Products,Flotemysost,498.80
+1997,September,Dairy Products,Geitost,167.00
+1997,September,Dairy Products,Gorgonzola Telino,515.00
+1997,September,Dairy Products,Gudbrandsdalsost,1296.00
+1997,September,Dairy Products,Mascarpone Fabioli,.00
+1997,September,Dairy Products,Mozzarella di Giovanni,.00
+1997,September,Dairy Products,Queso Cabrales,.00
+1997,September,Dairy Products,Queso Manchego La Pastora,3800.00
+1997,September,Dairy Products,Raclette Courdavault,715.00
+1997,September,Grains/Cereals,Filo Mix,63.00
+1997,September,Grains/Cereals,Gnocchi di nonna Alice,2097.60
+1997,September,Grains/Cereals,Gustaf's Knäckebröd,315.00
+1997,September,Grains/Cereals,Ravioli Angelo,.00
+1997,September,Grains/Cereals,Singaporean Hokkien Fried Mee,1183.00
+1997,September,Grains/Cereals,Tunnbröd,333.00
+1997,September,Grains/Cereals,Wimmers gute Semmelknödel,1379.88
+1997,September,Meat/Poultry,Alice Mutton,936.00
+1997,September,Meat/Poultry,Mishi Kobe Niku,3637.50
+1997,September,Meat/Poultry,Pâté chinois,86.40
+1997,September,Meat/Poultry,Perth Pasties,328.00
+1997,September,Meat/Poultry,Thüringer Rostbratwurst,5694.34
+1997,September,Meat/Poultry,Tourtière,263.73
+1997,September,Produce,Longlife Tofu,.00
+1997,September,Produce,Manjimup Dried Apples,2067.00
+1997,September,Produce,Rössle Sauerkraut,.00
+1997,September,Produce,Tofu,760.27
+1997,September,Produce,Uncle Bob's Organic Dried Pears,.00
+1997,September,Seafood,Boston Crab Meat,2535.52
+1997,September,Seafood,Carnarvon Tigers,.00
+1997,September,Seafood,Escargots de Bourgogne,916.90
+1997,September,Seafood,Gravad lax,.00
+1997,September,Seafood,Ikura,1314.40
+1997,September,Seafood,Inlagd Sill,655.50
+1997,September,Seafood,Jack's New England Clam Chowder,1582.60
+1997,September,Seafood,Konbu,.00
+1997,September,Seafood,Nord-Ost Matjeshering,38.83
+1997,September,Seafood,Röd Kaviar,750.00
+1997,September,Seafood,Rogede sild,.00
+1997,September,Seafood,Spegesild,1260.00
+1997,October,Beverages,Chai,1084.50
+1997,October,Beverages,Chang,579.50
+1997,October,Beverages,Chartreuse verte,.00
+1997,October,Beverages,Côte de Blaye,.00
+1997,October,Beverages,Guaraná Fantástica,247.50
+1997,October,Beverages,Ipoh Coffee,2944.00
+1997,October,Beverages,Lakkalikööri,805.50
+1997,October,Beverages,Laughing Lumberjack Lager,.00
+1997,October,Beverages,Outback Lager,1558.50
+1997,October,Beverages,Rhönbräu Klosterbier,325.50
+1997,October,Beverages,Sasquatch Ale,330.40
+1997,October,Beverages,Steeleye Stout,499.50
+1997,October,Condiments,Aniseed Syrup,60.00
+1997,October,Condiments,Chef Anton's Cajun Seasoning,132.00
+1997,October,Condiments,Chef Anton's Gumbo Mix,85.40
+1997,October,Condiments,Genen Shouyu,.00
+1997,October,Condiments,Grandma's Boysenberry Spread,.00
+1997,October,Condiments,Gula Malacca,1390.67
+1997,October,Condiments,Louisiana Fiery Hot Pepper Sauce,1299.84
+1997,October,Condiments,Louisiana Hot Spiced Okra,.00
+1997,October,Condiments,Northwoods Cranberry Sauce,2000.00
+1997,October,Condiments,Original Frankfurter grüne Soße,292.50
+1997,October,Condiments,Sirop d'érable,427.50
+1997,October,Condiments,Vegie-spread,878.00
+1997,October,Confections,Chocolade,306.00
+1997,October,Confections,Gumbär Gummibärchen,1405.35
+1997,October,Confections,Maxilaku,.00
+1997,October,Confections,NuNuCa Nuß-Nougat-Creme,.00
+1997,October,Confections,Pavlova,698.00
+1997,October,Confections,Schoggi Schokolade,.00
+1997,October,Confections,Scottish Longbreads,962.50
+1997,October,Confections,Sir Rodney's Marmalade,.00
+1997,October,Confections,Sir Rodney's Scones,354.00
+1997,October,Confections,Tarte au sucre,3352.40
+1997,October,Confections,Teatime Chocolate Biscuits,204.70
+1997,October,Confections,Valkoinen suklaa,.00
+1997,October,Confections,Zaanse koeken,517.75
+1997,October,Dairy Products,Camembert Pierrot,340.00
+1997,October,Dairy Products,Flotemysost,2214.50
+1997,October,Dairy Products,Geitost,.00
+1997,October,Dairy Products,Gorgonzola Telino,875.00
+1997,October,Dairy Products,Gudbrandsdalsost,1773.00
+1997,October,Dairy Products,Mascarpone Fabioli,128.00
+1997,October,Dairy Products,Mozzarella di Giovanni,.00
+1997,October,Dairy Products,Queso Cabrales,315.00
+1997,October,Dairy Products,Queso Manchego La Pastora,1520.00
+1997,October,Dairy Products,Raclette Courdavault,5703.50
+1997,October,Grains/Cereals,Filo Mix,28.00
+1997,October,Grains/Cereals,Gnocchi di nonna Alice,2223.00
+1997,October,Grains/Cereals,Gustaf's Knäckebröd,.00
+1997,October,Grains/Cereals,Ravioli Angelo,780.00
+1997,October,Grains/Cereals,Singaporean Hokkien Fried Mee,.00
+1997,October,Grains/Cereals,Tunnbröd,.00
+1997,October,Grains/Cereals,Wimmers gute Semmelknödel,.00
+1997,October,Meat/Poultry,Alice Mutton,1866.15
+1997,October,Meat/Poultry,Mishi Kobe Niku,582.00
+1997,October,Meat/Poultry,Pâté chinois,648.00
+1997,October,Meat/Poultry,Perth Pasties,4029.48
+1997,October,Meat/Poultry,Thüringer Rostbratwurst,6362.81
+1997,October,Meat/Poultry,Tourtière,715.20
+1997,October,Produce,Longlife Tofu,.00
+1997,October,Produce,Manjimup Dried Apples,1855.00
+1997,October,Produce,Rössle Sauerkraut,2462.40
+1997,October,Produce,Tofu,.00
+1997,October,Produce,Uncle Bob's Organic Dried Pears,2700.00
+1997,October,Seafood,Boston Crab Meat,.00
+1997,October,Seafood,Carnarvon Tigers,562.50
+1997,October,Seafood,Escargots de Bourgogne,417.38
+1997,October,Seafood,Gravad lax,.00
+1997,October,Seafood,Ikura,2207.20
+1997,October,Seafood,Inlagd Sill,855.00
+1997,October,Seafood,Jack's New England Clam Chowder,521.10
+1997,October,Seafood,Konbu,.00
+1997,October,Seafood,Nord-Ost Matjeshering,58.25
+1997,October,Seafood,Röd Kaviar,716.25
+1997,October,Seafood,Rogede sild,1045.00
+1997,October,Seafood,Spegesild,504.00
+1997,November,Beverages,Chai,1044.00
+1997,November,Beverages,Chang,228.00
+1997,November,Beverages,Chartreuse verte,.00
+1997,November,Beverages,Côte de Blaye,.00
+1997,November,Beverages,Guaraná Fantástica,.00
+1997,November,Beverages,Ipoh Coffee,.00
+1997,November,Beverages,Lakkalikööri,900.00
+1997,November,Beverages,Laughing Lumberjack Lager,.00
+1997,November,Beverages,Outback Lager,600.00
+1997,November,Beverages,Rhönbräu Klosterbier,155.00
+1997,November,Beverages,Sasquatch Ale,420.00
+1997,November,Beverages,Steeleye Stout,504.00
+1997,November,Condiments,Aniseed Syrup,200.00
+1997,November,Condiments,Chef Anton's Cajun Seasoning,550.00
+1997,November,Condiments,Chef Anton's Gumbo Mix,.00
+1997,November,Condiments,Genen Shouyu,.00
+1997,November,Condiments,Grandma's Boysenberry Spread,750.00
+1997,November,Condiments,Gula Malacca,311.20
+1997,November,Condiments,Louisiana Fiery Hot Pepper Sauce,1041.97
+1997,November,Condiments,Louisiana Hot Spiced Okra,.00
+1997,November,Condiments,Northwoods Cranberry Sauce,.00
+1997,November,Condiments,Original Frankfurter grüne Soße,23.40
+1997,November,Condiments,Sirop d'érable,513.00
+1997,November,Condiments,Vegie-spread,395.10
+1997,November,Confections,Chocolade,.00
+1997,November,Confections,Gumbär Gummibärchen,961.88
+1997,November,Confections,Maxilaku,.00
+1997,November,Confections,NuNuCa Nuß-Nougat-Creme,.00
+1997,November,Confections,Pavlova,301.01
+1997,November,Confections,Schoggi Schokolade,.00
+1997,November,Confections,Scottish Longbreads,60.00
+1997,November,Confections,Sir Rodney's Marmalade,.00
+1997,November,Confections,Sir Rodney's Scones,680.00
+1997,November,Confections,Tarte au sucre,1922.70
+1997,November,Confections,Teatime Chocolate Biscuits,.00
+1997,November,Confections,Valkoinen suklaa,942.50
+1997,November,Confections,Zaanse koeken,213.75
+1997,November,Dairy Products,Camembert Pierrot,2210.00
+1997,November,Dairy Products,Flotemysost,.00
+1997,November,Dairy Products,Geitost,.00
+1997,November,Dairy Products,Gorgonzola Telino,135.63
+1997,November,Dairy Products,Gudbrandsdalsost,3879.00
+1997,November,Dairy Products,Mascarpone Fabioli,320.00
+1997,November,Dairy Products,Mozzarella di Giovanni,1461.60
+1997,November,Dairy Products,Queso Cabrales,105.00
+1997,November,Dairy Products,Queso Manchego La Pastora,.00
+1997,November,Dairy Products,Raclette Courdavault,4881.25
+1997,November,Grains/Cereals,Filo Mix,721.00
+1997,November,Grains/Cereals,Gnocchi di nonna Alice,3275.60
+1997,November,Grains/Cereals,Gustaf's Knäckebröd,.00
+1997,November,Grains/Cereals,Ravioli Angelo,204.75
+1997,November,Grains/Cereals,Singaporean Hokkien Fried Mee,392.00
+1997,November,Grains/Cereals,Tunnbröd,396.00
+1997,November,Grains/Cereals,Wimmers gute Semmelknödel,798.00
+1997,November,Meat/Poultry,Alice Mutton,741.00
+1997,November,Meat/Poultry,Mishi Kobe Niku,.00
+1997,November,Meat/Poultry,Pâté chinois,288.00
+1997,November,Meat/Poultry,Perth Pasties,.00
+1997,November,Meat/Poultry,Thüringer Rostbratwurst,.00
+1997,November,Meat/Poultry,Tourtière,.00
+1997,November,Produce,Longlife Tofu,50.00
+1997,November,Produce,Manjimup Dried Apples,1510.50
+1997,November,Produce,Rössle Sauerkraut,1094.40
+1997,November,Produce,Tofu,470.81
+1997,November,Produce,Uncle Bob's Organic Dried Pears,.00
+1997,November,Seafood,Boston Crab Meat,1637.60
+1997,November,Seafood,Carnarvon Tigers,2550.00
+1997,November,Seafood,Escargots de Bourgogne,.00
+1997,November,Seafood,Gravad lax,.00
+1997,November,Seafood,Ikura,.00
+1997,November,Seafood,Inlagd Sill,418.00
+1997,November,Seafood,Jack's New England Clam Chowder,453.55
+1997,November,Seafood,Konbu,60.00
+1997,November,Seafood,Nord-Ost Matjeshering,1553.40
+1997,November,Seafood,Röd Kaviar,225.00
+1997,November,Seafood,Rogede sild,665.00
+1997,November,Seafood,Spegesild,319.20
+1997,December,Beverages,Chai,.00
+1997,December,Beverages,Chang,1505.75
+1997,December,Beverages,Chartreuse verte,2424.60
+1997,December,Beverages,Côte de Blaye,3952.50
+1997,December,Beverages,Guaraná Fantástica,166.50
+1997,December,Beverages,Ipoh Coffee,1035.00
+1997,December,Beverages,Lakkalikööri,.00
+1997,December,Beverages,Laughing Lumberjack Lager,42.00
+1997,December,Beverages,Outback Lager,525.00
+1997,December,Beverages,Rhönbräu Klosterbier,815.30
+1997,December,Beverages,Sasquatch Ale,140.00
+1997,December,Beverages,Steeleye Stout,270.00
+1997,December,Condiments,Aniseed Syrup,180.00
+1997,December,Condiments,Chef Anton's Cajun Seasoning,.00
+1997,December,Condiments,Chef Anton's Gumbo Mix,.00
+1997,December,Condiments,Genen Shouyu,.00
+1997,December,Condiments,Grandma's Boysenberry Spread,.00
+1997,December,Condiments,Gula Malacca,194.50
+1997,December,Condiments,Louisiana Fiery Hot Pepper Sauce,1557.70
+1997,December,Condiments,Louisiana Hot Spiced Okra,850.00
+1997,December,Condiments,Northwoods Cranberry Sauce,960.00
+1997,December,Condiments,Original Frankfurter grüne Soße,195.00
+1997,December,Condiments,Sirop d'érable,570.00
+1997,December,Condiments,Vegie-spread,1317.00
+1997,December,Confections,Chocolade,.00
+1997,December,Confections,Gumbär Gummibärchen,524.66
+1997,December,Confections,Maxilaku,68.00
+1997,December,Confections,NuNuCa Nuß-Nougat-Creme,693.00
+1997,December,Confections,Pavlova,1483.25
+1997,December,Confections,Schoggi Schokolade,1756.00
+1997,December,Confections,Scottish Longbreads,912.50
+1997,December,Confections,Sir Rodney's Marmalade,.00
+1997,December,Confections,Sir Rodney's Scones,400.00
+1997,December,Confections,Tarte au sucre,2008.97
+1997,December,Confections,Teatime Chocolate Biscuits,646.76
+1997,December,Confections,Valkoinen suklaa,.00
+1997,December,Confections,Zaanse koeken,285.00
+1997,December,Dairy Products,Camembert Pierrot,510.00
+1997,December,Dairy Products,Flotemysost,602.00
+1997,December,Dairy Products,Geitost,.00
+1997,December,Dairy Products,Gorgonzola Telino,1671.25
+1997,December,Dairy Products,Gudbrandsdalsost,691.20
+1997,December,Dairy Products,Mascarpone Fabioli,.00
+1997,December,Dairy Products,Mozzarella di Giovanni,1235.40
+1997,December,Dairy Products,Queso Cabrales,1601.25
+1997,December,Dairy Products,Queso Manchego La Pastora,.00
+1997,December,Dairy Products,Raclette Courdavault,3533.75
+1997,December,Grains/Cereals,Filo Mix,155.75
+1997,December,Grains/Cereals,Gnocchi di nonna Alice,3534.00
+1997,December,Grains/Cereals,Gustaf's Knäckebröd,210.00
+1997,December,Grains/Cereals,Ravioli Angelo,.00
+1997,December,Grains/Cereals,Singaporean Hokkien Fried Mee,411.60
+1997,December,Grains/Cereals,Tunnbröd,.00
+1997,December,Grains/Cereals,Wimmers gute Semmelknödel,931.00
+1997,December,Meat/Poultry,Alice Mutton,3480.75
+1997,December,Meat/Poultry,Mishi Kobe Niku,.00
+1997,December,Meat/Poultry,Pâté chinois,1080.00
+1997,December,Meat/Poultry,Perth Pasties,.00
+1997,December,Meat/Poultry,Thüringer Rostbratwurst,8083.49
+1997,December,Meat/Poultry,Tourtière,122.93
+1997,December,Produce,Longlife Tofu,462.50
+1997,December,Produce,Manjimup Dried Apples,9195.50
+1997,December,Produce,Rössle Sauerkraut,1094.40
+1997,December,Produce,Tofu,279.00
+1997,December,Produce,Uncle Bob's Organic Dried Pears,1126.50
+1997,December,Seafood,Boston Crab Meat,18.40
+1997,December,Seafood,Carnarvon Tigers,1875.00
+1997,December,Seafood,Escargots de Bourgogne,.00
+1997,December,Seafood,Gravad lax,.00
+1997,December,Seafood,Ikura,1612.00
+1997,December,Seafood,Inlagd Sill,570.00
+1997,December,Seafood,Jack's New England Clam Chowder,689.97
+1997,December,Seafood,Konbu,102.00
+1997,December,Seafood,Nord-Ost Matjeshering,796.12
+1997,December,Seafood,Röd Kaviar,.00
+1997,December,Seafood,Rogede sild,243.68
+1997,December,Seafood,Spegesild,.00
+1998,January,Beverages,Chai,1206.00
+1998,January,Beverages,Chang,1127.65
+1998,January,Beverages,Chartreuse verte,1026.00
+1998,January,Beverages,Côte de Blaye,18049.75
+1998,January,Beverages,Guaraná Fantástica,135.00
+1998,January,Beverages,Ipoh Coffee,1748.00
+1998,January,Beverages,Lakkalikööri,1408.50
+1998,January,Beverages,Laughing Lumberjack Lager,.00
+1998,January,Beverages,Outback Lager,1372.50
+1998,January,Beverages,Rhönbräu Klosterbier,155.00
+1998,January,Beverages,Sasquatch Ale,.00
+1998,January,Beverages,Steeleye Stout,1017.00
+1998,January,Condiments,Aniseed Syrup,790.00
+1998,January,Condiments,Chef Anton's Cajun Seasoning,462.00
+1998,January,Condiments,Chef Anton's Gumbo Mix,640.50
+1998,January,Condiments,Genen Shouyu,.00
+1998,January,Condiments,Grandma's Boysenberry Spread,150.00
+1998,January,Condiments,Gula Malacca,248.96
+1998,January,Condiments,Louisiana Fiery Hot Pepper Sauce,268.39
+1998,January,Condiments,Louisiana Hot Spiced Okra,.00
+1998,January,Condiments,Northwoods Cranberry Sauce,800.00
+1998,January,Condiments,Original Frankfurter grüne Soße,651.30
+1998,January,Condiments,Sirop d'érable,726.75
+1998,January,Condiments,Vegie-spread,.00
+1998,January,Confections,Chocolade,86.70
+1998,January,Confections,Gumbär Gummibärchen,2734.19
+1998,January,Confections,Maxilaku,.00
+1998,January,Confections,NuNuCa Nuß-Nougat-Creme,620.20
+1998,January,Confections,Pavlova,872.50
+1998,January,Confections,Schoggi Schokolade,439.00
+1998,January,Confections,Scottish Longbreads,550.00
+1998,January,Confections,Sir Rodney's Marmalade,405.00
+1998,January,Confections,Sir Rodney's Scones,400.00
+1998,January,Confections,Tarte au sucre,4745.13
+1998,January,Confections,Teatime Chocolate Biscuits,244.72
+1998,January,Confections,Valkoinen suklaa,.00
+1998,January,Confections,Zaanse koeken,285.00
+1998,January,Dairy Products,Camembert Pierrot,4998.00
+1998,January,Dairy Products,Flotemysost,946.00
+1998,January,Dairy Products,Geitost,136.00
+1998,January,Dairy Products,Gorgonzola Telino,893.75
+1998,January,Dairy Products,Gudbrandsdalsost,.00
+1998,January,Dairy Products,Mascarpone Fabioli,640.00
+1998,January,Dairy Products,Mozzarella di Giovanni,1722.60
+1998,January,Dairy Products,Queso Cabrales,1218.00
+1998,January,Dairy Products,Queso Manchego La Pastora,.00
+1998,January,Dairy Products,Raclette Courdavault,7749.50
+1998,January,Grains/Cereals,Filo Mix,196.00
+1998,January,Grains/Cereals,Gnocchi di nonna Alice,3838.00
+1998,January,Grains/Cereals,Gustaf's Knäckebröd,1827.00
+1998,January,Grains/Cereals,Ravioli Angelo,1238.25
+1998,January,Grains/Cereals,Singaporean Hokkien Fried Mee,809.20
+1998,January,Grains/Cereals,Tunnbröd,729.00
+1998,January,Grains/Cereals,Wimmers gute Semmelknödel,3441.38
+1998,January,Meat/Poultry,Alice Mutton,1872.00
+1998,January,Meat/Poultry,Mishi Kobe Niku,291.00
+1998,January,Meat/Poultry,Pâté chinois,.00
+1998,January,Meat/Poultry,Perth Pasties,921.68
+1998,January,Meat/Poultry,Thüringer Rostbratwurst,1869.23
+1998,January,Meat/Poultry,Tourtière,195.56
+1998,January,Produce,Longlife Tofu,200.00
+1998,January,Produce,Manjimup Dried Apples,636.00
+1998,January,Produce,Rössle Sauerkraut,.00
+1998,January,Produce,Tofu,.00
+1998,January,Produce,Uncle Bob's Organic Dried Pears,690.00
+1998,January,Seafood,Boston Crab Meat,1950.40
+1998,January,Seafood,Carnarvon Tigers,3046.88
+1998,January,Seafood,Escargots de Bourgogne,1073.25
+1998,January,Seafood,Gravad lax,1248.00
+1998,January,Seafood,Ikura,3596.00
+1998,January,Seafood,Inlagd Sill,712.50
+1998,January,Seafood,Jack's New England Clam Chowder,501.80
+1998,January,Seafood,Konbu,483.90
+1998,January,Seafood,Nord-Ost Matjeshering,491.91
+1998,January,Seafood,Röd Kaviar,.00
+1998,January,Seafood,Rogede sild,273.60
+1998,January,Seafood,Spegesild,420.00
+1998,February,Beverages,Chai,1548.00
+1998,February,Beverages,Chang,1059.25
+1998,February,Beverages,Chartreuse verte,2300.40
+1998,February,Beverages,Côte de Blaye,25559.50
+1998,February,Beverages,Guaraná Fantástica,650.25
+1998,February,Beverages,Ipoh Coffee,.00
+1998,February,Beverages,Lakkalikööri,180.00
+1998,February,Beverages,Laughing Lumberjack Lager,420.00
+1998,February,Beverages,Outback Lager,1083.75
+1998,February,Beverages,Rhönbräu Klosterbier,992.00
+1998,February,Beverages,Sasquatch Ale,140.00
+1998,February,Beverages,Steeleye Stout,666.00
+1998,February,Condiments,Aniseed Syrup,.00
+1998,February,Condiments,Chef Anton's Cajun Seasoning,495.00
+1998,February,Condiments,Chef Anton's Gumbo Mix,.00
+1998,February,Condiments,Genen Shouyu,.00
+1998,February,Condiments,Grandma's Boysenberry Spread,1187.50
+1998,February,Condiments,Gula Malacca,.00
+1998,February,Condiments,Louisiana Fiery Hot Pepper Sauce,1312.47
+1998,February,Condiments,Louisiana Hot Spiced Okra,.00
+1998,February,Condiments,Northwoods Cranberry Sauce,1200.00
+1998,February,Condiments,Original Frankfurter grüne Soße,845.00
+1998,February,Condiments,Sirop d'érable,1254.00
+1998,February,Condiments,Vegie-spread,.00
+1998,February,Confections,Chocolade,.00
+1998,February,Confections,Gumbär Gummibärchen,624.60
+1998,February,Confections,Maxilaku,1596.00
+1998,February,Confections,NuNuCa Nuß-Nougat-Creme,70.00
+1998,February,Confections,Pavlova,958.00
+1998,February,Confections,Schoggi Schokolade,.00
+1998,February,Confections,Scottish Longbreads,725.00
+1998,February,Confections,Sir Rodney's Marmalade,1539.00
+1998,February,Confections,Sir Rodney's Scones,580.00
+1998,February,Confections,Tarte au sucre,2913.63
+1998,February,Confections,Teatime Chocolate Biscuits,340.40
+1998,February,Confections,Valkoinen suklaa,.00
+1998,February,Confections,Zaanse koeken,179.55
+1998,February,Dairy Products,Camembert Pierrot,3400.00
+1998,February,Dairy Products,Flotemysost,1182.50
+1998,February,Dairy Products,Geitost,150.00
+1998,February,Dairy Products,Gorgonzola Telino,437.50
+1998,February,Dairy Products,Gudbrandsdalsost,1710.00
+1998,February,Dairy Products,Mascarpone Fabioli,192.00
+1998,February,Dairy Products,Mozzarella di Giovanni,.00
+1998,February,Dairy Products,Queso Cabrales,1680.00
+1998,February,Dairy Products,Queso Manchego La Pastora,.00
+1998,February,Dairy Products,Raclette Courdavault,2090.00
+1998,February,Grains/Cereals,Filo Mix,93.10
+1998,February,Grains/Cereals,Gnocchi di nonna Alice,1366.10
+1998,February,Grains/Cereals,Gustaf's Knäckebröd,.00
+1998,February,Grains/Cereals,Ravioli Angelo,390.00
+1998,February,Grains/Cereals,Singaporean Hokkien Fried Mee,350.00
+1998,February,Grains/Cereals,Tunnbröd,666.00
+1998,February,Grains/Cereals,Wimmers gute Semmelknödel,1138.81
+1998,February,Meat/Poultry,Alice Mutton,2035.80
+1998,February,Meat/Poultry,Mishi Kobe Niku,.00
+1998,February,Meat/Poultry,Pâté chinois,840.00
+1998,February,Meat/Poultry,Perth Pasties,98.40
+1998,February,Meat/Poultry,Thüringer Rostbratwurst,18444.71
+1998,February,Meat/Poultry,Tourtière,277.14
+1998,February,Produce,Longlife Tofu,.00
+1998,February,Produce,Manjimup Dried Apples,106.00
+1998,February,Produce,Rössle Sauerkraut,136.80
+1998,February,Produce,Tofu,.00
+1998,February,Produce,Uncle Bob's Organic Dried Pears,930.00
+1998,February,Seafood,Boston Crab Meat,1895.20
+1998,February,Seafood,Carnarvon Tigers,1562.50
+1998,February,Seafood,Escargots de Bourgogne,532.65
+1998,February,Seafood,Gravad lax,.00
+1998,February,Seafood,Ikura,2480.00
+1998,February,Seafood,Inlagd Sill,380.00
+1998,February,Seafood,Jack's New England Clam Chowder,472.85
+1998,February,Seafood,Konbu,429.60
+1998,February,Seafood,Nord-Ost Matjeshering,2983.82
+1998,February,Seafood,Röd Kaviar,150.00
+1998,February,Seafood,Rogede sild,142.50
+1998,February,Seafood,Spegesild,252.00
+1998,March,Beverages,Chai,1188.00
+1998,March,Beverages,Chang,161.50
+1998,March,Beverages,Chartreuse verte,540.00
+1998,March,Beverages,Côte de Blaye,17127.50
+1998,March,Beverages,Guaraná Fantástica,888.75
+1998,March,Beverages,Ipoh Coffee,1886.00
+1998,March,Beverages,Lakkalikööri,2502.00
+1998,March,Beverages,Laughing Lumberjack Lager,744.80
+1998,March,Beverages,Outback Lager,.00
+1998,March,Beverages,Rhönbräu Klosterbier,1543.03
+1998,March,Beverages,Sasquatch Ale,280.00
+1998,March,Beverages,Steeleye Stout,900.00
+1998,March,Condiments,Aniseed Syrup,.00
+1998,March,Condiments,Chef Anton's Cajun Seasoning,110.00
+1998,March,Condiments,Chef Anton's Gumbo Mix,427.00
+1998,March,Condiments,Genen Shouyu,.00
+1998,March,Condiments,Grandma's Boysenberry Spread,2180.00
+1998,March,Condiments,Gula Malacca,361.77
+1998,March,Condiments,Louisiana Fiery Hot Pepper Sauce,.00
+1998,March,Condiments,Louisiana Hot Spiced Okra,.00
+1998,March,Condiments,Northwoods Cranberry Sauce,1320.00
+1998,March,Condiments,Original Frankfurter grüne Soße,910.00
+1998,March,Condiments,Sirop d'érable,855.00
+1998,March,Condiments,Vegie-spread,4609.50
+1998,March,Confections,Chocolade,.00
+1998,March,Confections,Gumbär Gummibärchen,156.15
+1998,March,Confections,Maxilaku,1360.00
+1998,March,Confections,NuNuCa Nuß-Nougat-Creme,336.00
+1998,March,Confections,Pavlova,2830.39
+1998,March,Confections,Schoggi Schokolade,2414.50
+1998,March,Confections,Scottish Longbreads,750.00
+1998,March,Confections,Sir Rodney's Marmalade,5467.50
+1998,March,Confections,Sir Rodney's Scones,1420.00
+1998,March,Confections,Tarte au sucre,6966.09
+1998,March,Confections,Teatime Chocolate Biscuits,174.80
+1998,March,Confections,Valkoinen suklaa,536.25
+1998,March,Confections,Zaanse koeken,465.50
+1998,March,Dairy Products,Camembert Pierrot,2978.40
+1998,March,Dairy Products,Flotemysost,564.38
+1998,March,Dairy Products,Geitost,53.13
+1998,March,Dairy Products,Gorgonzola Telino,1696.88
+1998,March,Dairy Products,Gudbrandsdalsost,684.00
+1998,March,Dairy Products,Mascarpone Fabioli,1008.00
+1998,March,Dairy Products,Mozzarella di Giovanni,3514.80
+1998,March,Dairy Products,Queso Cabrales,1065.75
+1998,March,Dairy Products,Queso Manchego La Pastora,1900.00
+1998,March,Dairy Products,Raclette Courdavault,220.00
+1998,March,Grains/Cereals,Filo Mix,370.30
+1998,March,Grains/Cereals,Gnocchi di nonna Alice,1071.60
+1998,March,Grains/Cereals,Gustaf's Knäckebröd,441.00
+1998,March,Grains/Cereals,Ravioli Angelo,877.50
+1998,March,Grains/Cereals,Singaporean Hokkien Fried Mee,112.00
+1998,March,Grains/Cereals,Tunnbröd,54.00
+1998,March,Grains/Cereals,Wimmers gute Semmelknödel,399.00
+1998,March,Meat/Poultry,Alice Mutton,1053.00
+1998,March,Meat/Poultry,Mishi Kobe Niku,.00
+1998,March,Meat/Poultry,Pâté chinois,576.00
+1998,March,Meat/Poultry,Perth Pasties,721.60
+1998,March,Meat/Poultry,Thüringer Rostbratwurst,1733.06
+1998,March,Meat/Poultry,Tourtière,.00
+1998,March,Produce,Longlife Tofu,.00
+1998,March,Produce,Manjimup Dried Apples,3922.00
+1998,March,Produce,Rössle Sauerkraut,2599.20
+1998,March,Produce,Tofu,.00
+1998,March,Produce,Uncle Bob's Organic Dried Pears,6510.00
+1998,March,Seafood,Boston Crab Meat,552.00
+1998,March,Seafood,Carnarvon Tigers,1012.50
+1998,March,Seafood,Escargots de Bourgogne,318.00
+1998,March,Seafood,Gravad lax,208.00
+1998,March,Seafood,Ikura,2263.00
+1998,March,Seafood,Inlagd Sill,1619.75
+1998,March,Seafood,Jack's New England Clam Chowder,383.11
+1998,March,Seafood,Konbu,1584.60
+1998,March,Seafood,Nord-Ost Matjeshering,802.59
+1998,March,Seafood,Röd Kaviar,.00
+1998,March,Seafood,Rogede sild,285.00
+1998,March,Seafood,Spegesild,288.00
+1998,April,Beverages,Chai,1741.50
+1998,April,Beverages,Chang,2949.75
+1998,April,Beverages,Chartreuse verte,.00
+1998,April,Beverages,Côte de Blaye,6587.50
+1998,April,Beverages,Guaraná Fantástica,553.50
+1998,April,Beverages,Ipoh Coffee,2484.00
+1998,April,Beverages,Lakkalikööri,2214.00
+1998,April,Beverages,Laughing Lumberjack Lager,280.00
+1998,April,Beverages,Outback Lager,939.00
+1998,April,Beverages,Rhönbräu Klosterbier,232.50
+1998,April,Beverages,Sasquatch Ale,2331.00
+1998,April,Beverages,Steeleye Stout,2049.30
+1998,April,Condiments,Aniseed Syrup,250.00
+1998,April,Condiments,Chef Anton's Cajun Seasoning,412.50
+1998,April,Condiments,Chef Anton's Gumbo Mix,1974.88
+1998,April,Condiments,Genen Shouyu,.00
+1998,April,Condiments,Grandma's Boysenberry Spread,.00
+1998,April,Condiments,Gula Malacca,525.15
+1998,April,Condiments,Louisiana Fiery Hot Pepper Sauce,442.05
+1998,April,Condiments,Louisiana Hot Spiced Okra,.00
+1998,April,Condiments,Northwoods Cranberry Sauce,1200.00
+1998,April,Condiments,Original Frankfurter grüne Soße,1013.35
+1998,April,Condiments,Sirop d'érable,2425.35
+1998,April,Condiments,Vegie-spread,1843.80
+1998,April,Confections,Chocolade,.00
+1998,April,Confections,Gumbär Gummibärchen,2529.63
+1998,April,Confections,Maxilaku,1240.00
+1998,April,Confections,NuNuCa Nuß-Nougat-Creme,210.00
+1998,April,Confections,Pavlova,.00
+1998,April,Confections,Schoggi Schokolade,.00
+1998,April,Confections,Scottish Longbreads,550.00
+1998,April,Confections,Sir Rodney's Marmalade,1215.00
+1998,April,Confections,Sir Rodney's Scones,1015.00
+1998,April,Confections,Tarte au sucre,1368.08
+1998,April,Confections,Teatime Chocolate Biscuits,759.00
+1998,April,Confections,Valkoinen suklaa,.00
+1998,April,Confections,Zaanse koeken,.00
+1998,April,Dairy Products,Camembert Pierrot,5854.80
+1998,April,Dairy Products,Flotemysost,4171.00
+1998,April,Dairy Products,Geitost,137.50
+1998,April,Dairy Products,Gorgonzola Telino,187.50
+1998,April,Dairy Products,Gudbrandsdalsost,2246.40
+1998,April,Dairy Products,Mascarpone Fabioli,2696.00
+1998,April,Dairy Products,Mozzarella di Giovanni,1287.60
+1998,April,Dairy Products,Queso Cabrales,210.00
+1998,April,Dairy Products,Queso Manchego La Pastora,1603.60
+1998,April,Dairy Products,Raclette Courdavault,16285.50
+1998,April,Grains/Cereals,Filo Mix,189.00
+1998,April,Grains/Cereals,Gnocchi di nonna Alice,950.00
+1998,April,Grains/Cereals,Gustaf's Knäckebröd,525.00
+1998,April,Grains/Cereals,Ravioli Angelo,936.00
+1998,April,Grains/Cereals,Singaporean Hokkien Fried Mee,1517.60
+1998,April,Grains/Cereals,Tunnbröd,90.00
+1998,April,Grains/Cereals,Wimmers gute Semmelknödel,1330.00
+1998,April,Meat/Poultry,Alice Mutton,468.00
+1998,April,Meat/Poultry,Mishi Kobe Niku,.00
+1998,April,Meat/Poultry,Pâté chinois,4110.00
+1998,April,Meat/Poultry,Perth Pasties,2328.80
+1998,April,Meat/Poultry,Thüringer Rostbratwurst,11636.26
+1998,April,Meat/Poultry,Tourtière,74.50
+1998,April,Produce,Longlife Tofu,200.00
+1998,April,Produce,Manjimup Dried Apples,6426.25
+1998,April,Produce,Rössle Sauerkraut,3944.40
+1998,April,Produce,Tofu,.00
+1998,April,Produce,Uncle Bob's Organic Dried Pears,3720.00
+1998,April,Seafood,Boston Crab Meat,920.00
+1998,April,Seafood,Carnarvon Tigers,2875.00
+1998,April,Seafood,Escargots de Bourgogne,503.50
+1998,April,Seafood,Gravad lax,.00
+1998,April,Seafood,Ikura,632.40
+1998,April,Seafood,Inlagd Sill,1225.50
+1998,April,Seafood,Jack's New England Clam Chowder,940.39
+1998,April,Seafood,Konbu,1146.00
+1998,April,Seafood,Nord-Ost Matjeshering,388.35
+1998,April,Seafood,Röd Kaviar,.00
+1998,April,Seafood,Rogede sild,190.00
+1998,April,Seafood,Spegesild,516.00
+1998,May,Beverages,Chai,612.00
+1998,May,Beverages,Chang,1001.30
+1998,May,Beverages,Chartreuse verte,394.20
+1998,May,Beverages,Côte de Blaye,.00
+1998,May,Beverages,Guaraná Fantástica,90.00
+1998,May,Beverages,Ipoh Coffee,1407.60
+1998,May,Beverages,Lakkalikööri,30.60
+1998,May,Beverages,Laughing Lumberjack Lager,.00
+1998,May,Beverages,Outback Lager,.00
+1998,May,Beverages,Rhönbräu Klosterbier,31.00
+1998,May,Beverages,Sasquatch Ale,490.00
+1998,May,Beverages,Steeleye Stout,.00
+1998,May,Condiments,Aniseed Syrup,40.00
+1998,May,Condiments,Chef Anton's Cajun Seasoning,22.00
+1998,May,Condiments,Chef Anton's Gumbo Mix,.00
+1998,May,Condiments,Genen Shouyu,.00
+1998,May,Condiments,Grandma's Boysenberry Spread,399.50
+1998,May,Condiments,Gula Malacca,.00
+1998,May,Condiments,Louisiana Fiery Hot Pepper Sauce,.00
+1998,May,Condiments,Louisiana Hot Spiced Okra,17.00
+1998,May,Condiments,Northwoods Cranberry Sauce,72.00
+1998,May,Condiments,Original Frankfurter grüne Soße,335.40
+1998,May,Condiments,Sirop d'érable,.00
+1998,May,Condiments,Vegie-spread,.00
+1998,May,Confections,Chocolade,.00
+1998,May,Confections,Gumbär Gummibärchen,.00
+1998,May,Confections,Maxilaku,.00
+1998,May,Confections,NuNuCa Nuß-Nougat-Creme,.00
+1998,May,Confections,Pavlova,763.26
+1998,May,Confections,Schoggi Schokolade,.00
+1998,May,Confections,Scottish Longbreads,687.50
+1998,May,Confections,Sir Rodney's Marmalade,77.76
+1998,May,Confections,Sir Rodney's Scones,.00
+1998,May,Confections,Tarte au sucre,.00
+1998,May,Confections,Teatime Chocolate Biscuits,455.40
+1998,May,Confections,Valkoinen suklaa,357.50
+1998,May,Confections,Zaanse koeken,.00
+1998,May,Dairy Products,Camembert Pierrot,63.92
+1998,May,Dairy Products,Flotemysost,.00
+1998,May,Dairy Products,Geitost,.00
+1998,May,Dairy Products,Gorgonzola Telino,250.00
+1998,May,Dairy Products,Gudbrandsdalsost,.00
+1998,May,Dairy Products,Mascarpone Fabioli,32.00
+1998,May,Dairy Products,Mozzarella di Giovanni,.00
+1998,May,Dairy Products,Queso Cabrales,210.00
+1998,May,Dairy Products,Queso Manchego La Pastora,72.20
+1998,May,Dairy Products,Raclette Courdavault,.00
+1998,May,Grains/Cereals,Filo Mix,14.00
+1998,May,Grains/Cereals,Gnocchi di nonna Alice,.00
+1998,May,Grains/Cereals,Gustaf's Knäckebröd,.00
+1998,May,Grains/Cereals,Ravioli Angelo,.00
+1998,May,Grains/Cereals,Singaporean Hokkien Fried Mee,.00
+1998,May,Grains/Cereals,Tunnbröd,18.00
+1998,May,Grains/Cereals,Wimmers gute Semmelknödel,4387.01
+1998,May,Meat/Poultry,Alice Mutton,2702.70
+1998,May,Meat/Poultry,Mishi Kobe Niku,.00
+1998,May,Meat/Poultry,Pâté chinois,134.40
+1998,May,Meat/Poultry,Perth Pasties,738.00
+1998,May,Meat/Poultry,Thüringer Rostbratwurst,.00
+1998,May,Meat/Poultry,Tourtière,111.75
+1998,May,Produce,Longlife Tofu,.00
+1998,May,Produce,Manjimup Dried Apples,.00
+1998,May,Produce,Rössle Sauerkraut,310.08
+1998,May,Produce,Tofu,371.30
+1998,May,Produce,Uncle Bob's Organic Dried Pears,456.00
+1998,May,Seafood,Boston Crab Meat,.00
+1998,May,Seafood,Carnarvon Tigers,.00
+1998,May,Seafood,Escargots de Bourgogne,.00
+1998,May,Seafood,Gravad lax,.00
+1998,May,Seafood,Ikura,31.00
+1998,May,Seafood,Inlagd Sill,.00
+1998,May,Seafood,Jack's New England Clam Chowder,617.60
+1998,May,Seafood,Konbu,81.00
+1998,May,Seafood,Nord-Ost Matjeshering,77.67
+1998,May,Seafood,Röd Kaviar,29.70
+1998,May,Seafood,Rogede sild,.00
+1998,May,Seafood,Spegesild,341.28
